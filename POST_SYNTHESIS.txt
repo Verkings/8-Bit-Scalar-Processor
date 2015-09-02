@@ -1,0 +1,285 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Dec 10 13:53 2014
+Address=  00, Data at 00 = 75 
+Address=  01, Data at 01 = 84 
+Address=  02, Data at 02 = 46 
+Address=  03, Data at 03 = 70 
+Address=  04, Data at 04 = 88 
+Address=  05, Data at 05 = 42 
+Address=  06, Data at 06 = 28 
+Address=  07, Data at 07 = 59 
+Address=  08, Data at 08 = 38 
+Address=  09, Data at 09 = 71 
+Address=  0a, Data at 0a = 88 
+Address=  0b, Data at 0b = 42 
+Address=  0c, Data at 0c = 28 
+Address=  0d, Data at 0d = 46 
+Address=  0e, Data at 0e = 71 
+Address=  0f, Data at 0f = 89 
+Address=  10, Data at 10 = 42 
+Address=  11, Data at 11 = 28 
+Address=  12, Data at 12 = 56 
+Address=  13, Data at 13 = 71 
+Address=  14, Data at 14 = 88 
+Address=  15, Data at 15 = 42 
+Address=  16, Data at 16 = 34 
+Address=  17, Data at 17 = 72 
+Address=  18, Data at 18 = 88 
+Address=  19, Data at 19 = 42 
+Address=  1a, Data at 1a = 28 
+Address=  1b, Data at 1b = 46 
+Address=  1c, Data at 1c = 72 
+Address=  1d, Data at 1d = 89 
+Address=  1e, Data at 1e = 42 
+Address=  1f, Data at 1f = 28 
+Address=  20, Data at 20 = 69 
+Address=  21, Data at 21 = 72 
+Address=  22, Data at 22 = 88 
+Address=  23, Data at 23 = 42 
+Address=  24, Data at 24 = 38 
+Address=  25, Data at 25 = 90 
+Address=  26, Data at 26 = 46 
+Address=  27, Data at 27 = 70 
+Address=  28, Data at 28 = 8f 
+Address=  29, Data at 29 = 42 
+Address=  2a, Data at 2a = 34 
+Address=  2b, Data at 2b = 00 
+Address=  2c, Data at 2c = 70 
+Address=  2d, Data at 2d = 80 
+Address=  2e, Data at 2e = 42 
+Address=  2f, Data at 2f = 10 
+Address=  30, Data at 30 = xx 
+Address=  31, Data at 31 = xx 
+Address=  32, Data at 32 = xx 
+Address=  33, Data at 33 = xx 
+Address=  34, Data at 34 = xx 
+Address=  35, Data at 35 = xx 
+Address=  36, Data at 36 = xx 
+Address=  37, Data at 37 = xx 
+Address=  38, Data at 38 = xx 
+Address=  39, Data at 39 = xx 
+Address=  3a, Data at 3a = xx 
+Address=  3b, Data at 3b = xx 
+Address=  3c, Data at 3c = xx 
+Address=  3d, Data at 3d = xx 
+Address=  3e, Data at 3e = xx 
+Address=  3f, Data at 3f = xx 
+Address=  40, Data at 40 = xx 
+Address=  41, Data at 41 = xx 
+Address=  42, Data at 42 = xx 
+Address=  43, Data at 43 = xx 
+Address=  44, Data at 44 = xx 
+Address=  45, Data at 45 = xx 
+Address=  46, Data at 46 = xx 
+Address=  47, Data at 47 = xx 
+Address=  48, Data at 48 = xx 
+Address=  49, Data at 49 = xx 
+Address=  4a, Data at 4a = xx 
+Address=  4b, Data at 4b = xx 
+Address=  4c, Data at 4c = xx 
+Address=  4d, Data at 4d = xx 
+Address=  4e, Data at 4e = xx 
+Address=  4f, Data at 4f = xx 
+Address=  50, Data at 50 = xx 
+Address=  51, Data at 51 = xx 
+Address=  52, Data at 52 = xx 
+Address=  53, Data at 53 = xx 
+Address=  54, Data at 54 = xx 
+Address=  55, Data at 55 = xx 
+Address=  56, Data at 56 = xx 
+Address=  57, Data at 57 = xx 
+Address=  58, Data at 58 = xx 
+Address=  59, Data at 59 = xx 
+Address=  5a, Data at 5a = xx 
+Address=  5b, Data at 5b = xx 
+Address=  5c, Data at 5c = xx 
+Address=  5d, Data at 5d = xx 
+Address=  5e, Data at 5e = xx 
+Address=  5f, Data at 5f = xx 
+Address=  60, Data at 60 = xx 
+Address=  61, Data at 61 = xx 
+Address=  62, Data at 62 = xx 
+Address=  63, Data at 63 = xx 
+Address=  64, Data at 64 = xx 
+Address=  65, Data at 65 = xx 
+Address=  66, Data at 66 = xx 
+Address=  67, Data at 67 = xx 
+Address=  68, Data at 68 = xx 
+Address=  69, Data at 69 = xx 
+Address=  6a, Data at 6a = xx 
+Address=  6b, Data at 6b = xx 
+Address=  6c, Data at 6c = xx 
+Address=  6d, Data at 6d = xx 
+Address=  6e, Data at 6e = xx 
+Address=  6f, Data at 6f = xx 
+Address=  70, Data at 70 = xx 
+Address=  71, Data at 71 = xx 
+Address=  72, Data at 72 = xx 
+Address=  73, Data at 73 = xx 
+Address=  74, Data at 74 = xx 
+Address=  75, Data at 75 = xx 
+Address=  76, Data at 76 = xx 
+Address=  77, Data at 77 = xx 
+Address=  78, Data at 78 = xx 
+Address=  79, Data at 79 = xx 
+Address=  7a, Data at 7a = xx 
+Address=  7b, Data at 7b = xx 
+Address=  7c, Data at 7c = xx 
+Address=  7d, Data at 7d = xx 
+Address=  7e, Data at 7e = xx 
+Address=  7f, Data at 7f = xx 
+Address=  80, Data at 80 = 44 
+Address=  81, Data at 81 = 55 
+Address=  82, Data at 82 = 66 
+Address=  83, Data at 83 = xx 
+Address=  84, Data at 84 = xx 
+Address=  85, Data at 85 = xx 
+Address=  86, Data at 86 = xx 
+Address=  87, Data at 87 = xx 
+Address=  88, Data at 88 = xx 
+Address=  89, Data at 89 = xx 
+Address=  8a, Data at 8a = xx 
+Address=  8b, Data at 8b = xx 
+Address=  8c, Data at 8c = xx 
+Address=  8d, Data at 8d = xx 
+Address=  8e, Data at 8e = xx 
+Address=  8f, Data at 8f = xx 
+Address=  90, Data at 90 = xx 
+Address=  91, Data at 91 = 77 
+Address=  92, Data at 92 = 88 
+Address=  93, Data at 93 = xx 
+Address=  94, Data at 94 = xx 
+Address=  95, Data at 95 = xx 
+Address=  96, Data at 96 = xx 
+Address=  97, Data at 97 = xx 
+Address=  98, Data at 98 = xx 
+Address=  99, Data at 99 = xx 
+Address=  9a, Data at 9a = xx 
+Address=  9b, Data at 9b = xx 
+Address=  9c, Data at 9c = xx 
+Address=  9d, Data at 9d = xx 
+Address=  9e, Data at 9e = xx 
+Address=  9f, Data at 9f = xx 
+Address=  a0, Data at a0 = xx 
+Address=  a1, Data at a1 = xx 
+Address=  a2, Data at a2 = xx 
+Address=  a3, Data at a3 = xx 
+Address=  a4, Data at a4 = xx 
+Address=  a5, Data at a5 = xx 
+Address=  a6, Data at a6 = xx 
+Address=  a7, Data at a7 = xx 
+Address=  a8, Data at a8 = xx 
+Address=  a9, Data at a9 = xx 
+Address=  aa, Data at aa = xx 
+Address=  ab, Data at ab = xx 
+Address=  ac, Data at ac = xx 
+Address=  ad, Data at ad = xx 
+Address=  ae, Data at ae = xx 
+Address=  af, Data at af = xx 
+Address=  b0, Data at b0 = xx 
+Address=  b1, Data at b1 = xx 
+Address=  b2, Data at b2 = xx 
+Address=  b3, Data at b3 = xx 
+Address=  b4, Data at b4 = xx 
+Address=  b5, Data at b5 = xx 
+Address=  b6, Data at b6 = xx 
+Address=  b7, Data at b7 = xx 
+Address=  b8, Data at b8 = xx 
+Address=  b9, Data at b9 = xx 
+Address=  ba, Data at ba = xx 
+Address=  bb, Data at bb = xx 
+Address=  bc, Data at bc = xx 
+Address=  bd, Data at bd = xx 
+Address=  be, Data at be = xx 
+Address=  bf, Data at bf = xx 
+Address=  c0, Data at c0 = xx 
+Address=  c1, Data at c1 = xx 
+Address=  c2, Data at c2 = xx 
+Address=  c3, Data at c3 = xx 
+Address=  c4, Data at c4 = xx 
+Address=  c5, Data at c5 = xx 
+Address=  c6, Data at c6 = xx 
+Address=  c7, Data at c7 = xx 
+Address=  c8, Data at c8 = xx 
+Address=  c9, Data at c9 = xx 
+Address=  ca, Data at ca = xx 
+Address=  cb, Data at cb = xx 
+Address=  cc, Data at cc = xx 
+Address=  cd, Data at cd = xx 
+Address=  ce, Data at ce = xx 
+Address=  cf, Data at cf = xx 
+Address=  d0, Data at d0 = xx 
+Address=  d1, Data at d1 = xx 
+Address=  d2, Data at d2 = xx 
+Address=  d3, Data at d3 = xx 
+Address=  d4, Data at d4 = xx 
+Address=  d5, Data at d5 = xx 
+Address=  d6, Data at d6 = xx 
+Address=  d7, Data at d7 = xx 
+Address=  d8, Data at d8 = xx 
+Address=  d9, Data at d9 = xx 
+Address=  da, Data at da = xx 
+Address=  db, Data at db = xx 
+Address=  dc, Data at dc = xx 
+Address=  dd, Data at dd = xx 
+Address=  de, Data at de = xx 
+Address=  df, Data at df = xx 
+Address=  e0, Data at e0 = xx 
+Address=  e1, Data at e1 = xx 
+Address=  e2, Data at e2 = xx 
+Address=  e3, Data at e3 = xx 
+Address=  e4, Data at e4 = xx 
+Address=  e5, Data at e5 = xx 
+Address=  e6, Data at e6 = xx 
+Address=  e7, Data at e7 = xx 
+Address=  e8, Data at e8 = xx 
+Address=  e9, Data at e9 = xx 
+Address=  ea, Data at ea = xx 
+Address=  eb, Data at eb = xx 
+Address=  ec, Data at ec = xx 
+Address=  ed, Data at ed = xx 
+Address=  ee, Data at ee = xx 
+Address=  ef, Data at ef = xx 
+Address=  f0, Data at f0 = xx 
+Address=  f1, Data at f1 = xx 
+Address=  f2, Data at f2 = xx 
+Address=  f3, Data at f3 = xx 
+Address=  f4, Data at f4 = xx 
+Address=  f5, Data at f5 = xx 
+Address=  f6, Data at f6 = xx 
+Address=  f7, Data at f7 = xx 
+Address=  f8, Data at f8 = xx 
+Address=  f9, Data at f9 = xx 
+Address=  fa, Data at fa = xx 
+Address=  fb, Data at fb = xx 
+Address=  fc, Data at fc = xx 
+Address=  fd, Data at fd = xx 
+Address=  fe, Data at fe = xx 
+Address=  ff, Data at ff = xx 
+                         WRITEEN DATA : RAM[80h]= 44, RAM[81h]= 55,  RAM[82h]= 66,  RAM[FO]= xx
+
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= 55,  RAM[82h]= 66,  RAM[FO]= xx
+
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 66,  RAM[FO]= xx
+
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= xx
+
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= 81
+
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= 81
+
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 81
+
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 80
+
+                         WRITEEN DATA : RAM[80h]= 13, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 80
+
+                         WRITEEN DATA : RAM[80h]= 13, RAM[81h]= ba,  RAM[82h]= 82,  RAM[FO]= 80
+
+$finish called from file "scalar_test.v", line 140.
+$finish at simulation time               388500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 3885000 ps
+CPU Time:      0.270 seconds;       Data structure size:   0.1Mb
+Wed Dec 10 13:53:47 2014

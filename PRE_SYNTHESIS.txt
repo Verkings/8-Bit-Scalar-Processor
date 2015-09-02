@@ -1,0 +1,1148 @@
+Chronologic VCS simulator copyright 1991-2014
+Contains Synopsys proprietary information.
+Compiler version I-2014.03-2; Runtime version I-2014.03-2;  Dec 10 13:32 2014
+Address=  00, Data at 00 = 75 
+Address=  01, Data at 01 = 84 
+Address=  02, Data at 02 = 46 
+Address=  03, Data at 03 = 70 
+Address=  04, Data at 04 = 88 
+Address=  05, Data at 05 = 42 
+Address=  06, Data at 06 = 28 
+Address=  07, Data at 07 = 59 
+Address=  08, Data at 08 = 38 
+Address=  09, Data at 09 = 71 
+Address=  0a, Data at 0a = 88 
+Address=  0b, Data at 0b = 42 
+Address=  0c, Data at 0c = 28 
+Address=  0d, Data at 0d = 46 
+Address=  0e, Data at 0e = 71 
+Address=  0f, Data at 0f = 89 
+Address=  10, Data at 10 = 42 
+Address=  11, Data at 11 = 28 
+Address=  12, Data at 12 = 56 
+Address=  13, Data at 13 = 71 
+Address=  14, Data at 14 = 88 
+Address=  15, Data at 15 = 42 
+Address=  16, Data at 16 = 34 
+Address=  17, Data at 17 = 72 
+Address=  18, Data at 18 = 88 
+Address=  19, Data at 19 = 42 
+Address=  1a, Data at 1a = 28 
+Address=  1b, Data at 1b = 46 
+Address=  1c, Data at 1c = 72 
+Address=  1d, Data at 1d = 89 
+Address=  1e, Data at 1e = 42 
+Address=  1f, Data at 1f = 28 
+Address=  20, Data at 20 = 69 
+Address=  21, Data at 21 = 72 
+Address=  22, Data at 22 = 88 
+Address=  23, Data at 23 = 42 
+Address=  24, Data at 24 = 38 
+Address=  25, Data at 25 = 90 
+Address=  26, Data at 26 = 46 
+Address=  27, Data at 27 = 70 
+Address=  28, Data at 28 = 8f 
+Address=  29, Data at 29 = 42 
+Address=  2a, Data at 2a = 34 
+Address=  2b, Data at 2b = 00 
+Address=  2c, Data at 2c = 70 
+Address=  2d, Data at 2d = 80 
+Address=  2e, Data at 2e = 42 
+Address=  2f, Data at 2f = 10 
+Address=  30, Data at 30 = xx 
+Address=  31, Data at 31 = xx 
+Address=  32, Data at 32 = xx 
+Address=  33, Data at 33 = xx 
+Address=  34, Data at 34 = xx 
+Address=  35, Data at 35 = xx 
+Address=  36, Data at 36 = xx 
+Address=  37, Data at 37 = xx 
+Address=  38, Data at 38 = xx 
+Address=  39, Data at 39 = xx 
+Address=  3a, Data at 3a = xx 
+Address=  3b, Data at 3b = xx 
+Address=  3c, Data at 3c = xx 
+Address=  3d, Data at 3d = xx 
+Address=  3e, Data at 3e = xx 
+Address=  3f, Data at 3f = xx 
+Address=  40, Data at 40 = xx 
+Address=  41, Data at 41 = xx 
+Address=  42, Data at 42 = xx 
+Address=  43, Data at 43 = xx 
+Address=  44, Data at 44 = xx 
+Address=  45, Data at 45 = xx 
+Address=  46, Data at 46 = xx 
+Address=  47, Data at 47 = xx 
+Address=  48, Data at 48 = xx 
+Address=  49, Data at 49 = xx 
+Address=  4a, Data at 4a = xx 
+Address=  4b, Data at 4b = xx 
+Address=  4c, Data at 4c = xx 
+Address=  4d, Data at 4d = xx 
+Address=  4e, Data at 4e = xx 
+Address=  4f, Data at 4f = xx 
+Address=  50, Data at 50 = xx 
+Address=  51, Data at 51 = xx 
+Address=  52, Data at 52 = xx 
+Address=  53, Data at 53 = xx 
+Address=  54, Data at 54 = xx 
+Address=  55, Data at 55 = xx 
+Address=  56, Data at 56 = xx 
+Address=  57, Data at 57 = xx 
+Address=  58, Data at 58 = xx 
+Address=  59, Data at 59 = xx 
+Address=  5a, Data at 5a = xx 
+Address=  5b, Data at 5b = xx 
+Address=  5c, Data at 5c = xx 
+Address=  5d, Data at 5d = xx 
+Address=  5e, Data at 5e = xx 
+Address=  5f, Data at 5f = xx 
+Address=  60, Data at 60 = xx 
+Address=  61, Data at 61 = xx 
+Address=  62, Data at 62 = xx 
+Address=  63, Data at 63 = xx 
+Address=  64, Data at 64 = xx 
+Address=  65, Data at 65 = xx 
+Address=  66, Data at 66 = xx 
+Address=  67, Data at 67 = xx 
+Address=  68, Data at 68 = xx 
+Address=  69, Data at 69 = xx 
+Address=  6a, Data at 6a = xx 
+Address=  6b, Data at 6b = xx 
+Address=  6c, Data at 6c = xx 
+Address=  6d, Data at 6d = xx 
+Address=  6e, Data at 6e = xx 
+Address=  6f, Data at 6f = xx 
+Address=  70, Data at 70 = xx 
+Address=  71, Data at 71 = xx 
+Address=  72, Data at 72 = xx 
+Address=  73, Data at 73 = xx 
+Address=  74, Data at 74 = xx 
+Address=  75, Data at 75 = xx 
+Address=  76, Data at 76 = xx 
+Address=  77, Data at 77 = xx 
+Address=  78, Data at 78 = xx 
+Address=  79, Data at 79 = xx 
+Address=  7a, Data at 7a = xx 
+Address=  7b, Data at 7b = xx 
+Address=  7c, Data at 7c = xx 
+Address=  7d, Data at 7d = xx 
+Address=  7e, Data at 7e = xx 
+Address=  7f, Data at 7f = xx 
+Address=  80, Data at 80 = 44 
+Address=  81, Data at 81 = 55 
+Address=  82, Data at 82 = 66 
+Address=  83, Data at 83 = xx 
+Address=  84, Data at 84 = xx 
+Address=  85, Data at 85 = xx 
+Address=  86, Data at 86 = xx 
+Address=  87, Data at 87 = xx 
+Address=  88, Data at 88 = xx 
+Address=  89, Data at 89 = xx 
+Address=  8a, Data at 8a = xx 
+Address=  8b, Data at 8b = xx 
+Address=  8c, Data at 8c = xx 
+Address=  8d, Data at 8d = xx 
+Address=  8e, Data at 8e = xx 
+Address=  8f, Data at 8f = xx 
+Address=  90, Data at 90 = xx 
+Address=  91, Data at 91 = 77 
+Address=  92, Data at 92 = 88 
+Address=  93, Data at 93 = xx 
+Address=  94, Data at 94 = xx 
+Address=  95, Data at 95 = xx 
+Address=  96, Data at 96 = xx 
+Address=  97, Data at 97 = xx 
+Address=  98, Data at 98 = xx 
+Address=  99, Data at 99 = xx 
+Address=  9a, Data at 9a = xx 
+Address=  9b, Data at 9b = xx 
+Address=  9c, Data at 9c = xx 
+Address=  9d, Data at 9d = xx 
+Address=  9e, Data at 9e = xx 
+Address=  9f, Data at 9f = xx 
+Address=  a0, Data at a0 = xx 
+Address=  a1, Data at a1 = xx 
+Address=  a2, Data at a2 = xx 
+Address=  a3, Data at a3 = xx 
+Address=  a4, Data at a4 = xx 
+Address=  a5, Data at a5 = xx 
+Address=  a6, Data at a6 = xx 
+Address=  a7, Data at a7 = xx 
+Address=  a8, Data at a8 = xx 
+Address=  a9, Data at a9 = xx 
+Address=  aa, Data at aa = xx 
+Address=  ab, Data at ab = xx 
+Address=  ac, Data at ac = xx 
+Address=  ad, Data at ad = xx 
+Address=  ae, Data at ae = xx 
+Address=  af, Data at af = xx 
+Address=  b0, Data at b0 = xx 
+Address=  b1, Data at b1 = xx 
+Address=  b2, Data at b2 = xx 
+Address=  b3, Data at b3 = xx 
+Address=  b4, Data at b4 = xx 
+Address=  b5, Data at b5 = xx 
+Address=  b6, Data at b6 = xx 
+Address=  b7, Data at b7 = xx 
+Address=  b8, Data at b8 = xx 
+Address=  b9, Data at b9 = xx 
+Address=  ba, Data at ba = xx 
+Address=  bb, Data at bb = xx 
+Address=  bc, Data at bc = xx 
+Address=  bd, Data at bd = xx 
+Address=  be, Data at be = xx 
+Address=  bf, Data at bf = xx 
+Address=  c0, Data at c0 = xx 
+Address=  c1, Data at c1 = xx 
+Address=  c2, Data at c2 = xx 
+Address=  c3, Data at c3 = xx 
+Address=  c4, Data at c4 = xx 
+Address=  c5, Data at c5 = xx 
+Address=  c6, Data at c6 = xx 
+Address=  c7, Data at c7 = xx 
+Address=  c8, Data at c8 = xx 
+Address=  c9, Data at c9 = xx 
+Address=  ca, Data at ca = xx 
+Address=  cb, Data at cb = xx 
+Address=  cc, Data at cc = xx 
+Address=  cd, Data at cd = xx 
+Address=  ce, Data at ce = xx 
+Address=  cf, Data at cf = xx 
+Address=  d0, Data at d0 = xx 
+Address=  d1, Data at d1 = xx 
+Address=  d2, Data at d2 = xx 
+Address=  d3, Data at d3 = xx 
+Address=  d4, Data at d4 = xx 
+Address=  d5, Data at d5 = xx 
+Address=  d6, Data at d6 = xx 
+Address=  d7, Data at d7 = xx 
+Address=  d8, Data at d8 = xx 
+Address=  d9, Data at d9 = xx 
+Address=  da, Data at da = xx 
+Address=  db, Data at db = xx 
+Address=  dc, Data at dc = xx 
+Address=  dd, Data at dd = xx 
+Address=  de, Data at de = xx 
+Address=  df, Data at df = xx 
+Address=  e0, Data at e0 = xx 
+Address=  e1, Data at e1 = xx 
+Address=  e2, Data at e2 = xx 
+Address=  e3, Data at e3 = xx 
+Address=  e4, Data at e4 = xx 
+Address=  e5, Data at e5 = xx 
+Address=  e6, Data at e6 = xx 
+Address=  e7, Data at e7 = xx 
+Address=  e8, Data at e8 = xx 
+Address=  e9, Data at e9 = xx 
+Address=  ea, Data at ea = xx 
+Address=  eb, Data at eb = xx 
+Address=  ec, Data at ec = xx 
+Address=  ed, Data at ed = xx 
+Address=  ee, Data at ee = xx 
+Address=  ef, Data at ef = xx 
+Address=  f0, Data at f0 = xx 
+Address=  f1, Data at f1 = xx 
+Address=  f2, Data at f2 = xx 
+Address=  f3, Data at f3 = xx 
+Address=  f4, Data at f4 = xx 
+Address=  f5, Data at f5 = xx 
+Address=  f6, Data at f6 = xx 
+Address=  f7, Data at f7 = xx 
+Address=  f8, Data at f8 = xx 
+Address=  f9, Data at f9 = xx 
+Address=  fa, Data at fa = xx 
+Address=  fb, Data at fb = xx 
+Address=  fc, Data at fc = xx 
+Address=  fd, Data at fd = xx 
+Address=  fe, Data at fe = xx 
+Address=  ff, Data at ff = xx 
+                         WRITEEN DATA : RAM[80h]= 44, RAM[81h]= 55,  RAM[82h]= 66,  RAM[FO]= xx
+
+                  12 ns  FETCH STATE: Instruction is Fetched
+                  18 ns  DECODE STATE: Instruction is Decoded
+                  24 ns  Instruction : LLS,5 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                  30 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 5
+                         AR[00]= 00, DR[01]= 00, GR[10]= 05, PR[11]= 01
+
+                  42 ns  FETCH STATE: Instruction is Fetched
+                  48 ns  DECODE STATE: Instruction is Decoded
+                  54 ns  Instruction : LMS,4 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                  60 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 4
+                         AR[00]= 00, DR[01]= 00, GR[10]= 45, PR[11]= 02
+
+                  72 ns  FETCH STATE: Instruction is Fetched
+                  78 ns  DECODE STATE: Instruction is Decoded
+                  84 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                  90 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 00, DR[01]= 45, GR[10]= 45, PR[11]= 03
+
+                 102 ns  FETCH STATE: Instruction is Fetched
+                 108 ns  DECODE STATE: Instruction is Decoded
+                 114 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 120 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= 00, DR[01]= 45, GR[10]= 40, PR[11]= 04
+
+                 132 ns  FETCH STATE: Instruction is Fetched
+                 138 ns  DECODE STATE: Instruction is Decoded
+                 144 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 150 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 00, DR[01]= 45, GR[10]= 80, PR[11]= 05
+
+                 162 ns  FETCH STATE: Instruction is Fetched
+                 168 ns  DECODE STATE: Instruction is Decoded
+                 174 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 180 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 80, DR[01]= 45, GR[10]= 80, PR[11]= 06
+
+                 192 ns  FETCH STATE: Instruction is Fetched
+                 198 ns  DECODE STATE: Instruction is Decoded
+                 204 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 210 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 80 to Memory Address...  
+                 216 ns  EXECUTE_2 STATE: Read the Data 44 from Memory Location 80 and Stored into 10 Register
+                         AR[00]= 80, DR[01]= 45, GR[10]= 44, PR[11]= 07
+
+                 228 ns  FETCH STATE: Instruction is Fetched
+                 234 ns  DECODE STATE: Instruction is Decoded
+                 240 ns  Instruction : ADD,2,1 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 246 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes 44 and 45 and Adding them...   
+                 252 ns  10 Register Data = 44  and 01 Register Data = 45 
+                         AR[00]= 80, DR[01]= 45, GR[10]= 89, PR[11]= 08
+
+                 264 ns  FETCH STATE: Instruction is Fetched
+                 270 ns  DECODE STATE: Instruction is Decoded
+                 276 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 282 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 80  to Memory Address...  
+                 288 ns  EXECUTE_2 STATE: 10 Register Data 89 is Written at Memory Address 80
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= 55,  RAM[82h]= 66,  RAM[FO]= xx
+
+                 300 ns  FETCH STATE: Instruction is Fetched
+                 306 ns  DECODE STATE: Instruction is Decoded
+                 312 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 318 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 80, DR[01]= 45, GR[10]= 81, PR[11]= 0a
+
+                 330 ns  FETCH STATE: Instruction is Fetched
+                 336 ns  DECODE STATE: Instruction is Decoded
+                 342 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 348 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 80, DR[01]= 45, GR[10]= 81, PR[11]= 0b
+
+                 360 ns  FETCH STATE: Instruction is Fetched
+                 366 ns  DECODE STATE: Instruction is Decoded
+                 372 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 378 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= 45, GR[10]= 81, PR[11]= 0c
+
+                 390 ns  FETCH STATE: Instruction is Fetched
+                 396 ns  DECODE STATE: Instruction is Decoded
+                 402 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 408 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 81 to Memory Address...  
+                 414 ns  EXECUTE_2 STATE: Read the Data 55 from Memory Location 81 and Stored into 10 Register
+                         AR[00]= 81, DR[01]= 45, GR[10]= 55, PR[11]= 0d
+
+                 426 ns  FETCH STATE: Instruction is Fetched
+                 432 ns  DECODE STATE: Instruction is Decoded
+                 438 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 444 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 81, DR[01]= 55, GR[10]= 55, PR[11]= 0e
+
+                 456 ns  FETCH STATE: Instruction is Fetched
+                 462 ns  DECODE STATE: Instruction is Decoded
+                 468 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 474 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 81, DR[01]= 55, GR[10]= 51, PR[11]= 0f
+
+                 486 ns  FETCH STATE: Instruction is Fetched
+                 492 ns  DECODE STATE: Instruction is Decoded
+                 498 ns  Instruction : LMS,9 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 504 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 9
+                         AR[00]= 81, DR[01]= 55, GR[10]= 91, PR[11]= 10
+
+                 516 ns  FETCH STATE: Instruction is Fetched
+                 522 ns  DECODE STATE: Instruction is Decoded
+                 528 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 534 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 91, DR[01]= 55, GR[10]= 91, PR[11]= 11
+
+                 546 ns  FETCH STATE: Instruction is Fetched
+                 552 ns  DECODE STATE: Instruction is Decoded
+                 558 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 564 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 91 to Memory Address...  
+                 570 ns  EXECUTE_2 STATE: Read the Data 77 from Memory Location 91 and Stored into 10 Register
+                         AR[00]= 91, DR[01]= 55, GR[10]= 77, PR[11]= 12
+
+                 582 ns  FETCH STATE: Instruction is Fetched
+                 588 ns  DECODE STATE: Instruction is Decoded
+                 594 ns  Instruction : ADD,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 600 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes 55 and 77 and Adding them...   
+                 606 ns  01 Register Data = 55  and 10 Register Data = 77 
+                         AR[00]= 91, DR[01]= cc, GR[10]= 77, PR[11]= 13
+
+                 618 ns  FETCH STATE: Instruction is Fetched
+                 624 ns  DECODE STATE: Instruction is Decoded
+                 630 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 636 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 91, DR[01]= cc, GR[10]= 71, PR[11]= 14
+
+                 648 ns  FETCH STATE: Instruction is Fetched
+                 654 ns  DECODE STATE: Instruction is Decoded
+                 660 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 666 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 91, DR[01]= cc, GR[10]= 81, PR[11]= 15
+
+                 678 ns  FETCH STATE: Instruction is Fetched
+                 684 ns  DECODE STATE: Instruction is Decoded
+                 690 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 696 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= cc, GR[10]= 81, PR[11]= 16
+
+                 708 ns  FETCH STATE: Instruction is Fetched
+                 714 ns  DECODE STATE: Instruction is Decoded
+                 720 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 726 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 81  to Memory Address...  
+                 732 ns  EXECUTE_2 STATE: 01 Register Data cc is Written at Memory Address 81
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 66,  RAM[FO]= xx
+
+                 744 ns  FETCH STATE: Instruction is Fetched
+                 750 ns  DECODE STATE: Instruction is Decoded
+                 756 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 762 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 81, DR[01]= cc, GR[10]= 82, PR[11]= 18
+
+                 774 ns  FETCH STATE: Instruction is Fetched
+                 780 ns  DECODE STATE: Instruction is Decoded
+                 786 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 792 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 81, DR[01]= cc, GR[10]= 82, PR[11]= 19
+
+                 804 ns  FETCH STATE: Instruction is Fetched
+                 810 ns  DECODE STATE: Instruction is Decoded
+                 816 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 822 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 82, DR[01]= cc, GR[10]= 82, PR[11]= 1a
+
+                 834 ns  FETCH STATE: Instruction is Fetched
+                 840 ns  DECODE STATE: Instruction is Decoded
+                 846 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 852 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 82 to Memory Address...  
+                 858 ns  EXECUTE_2 STATE: Read the Data 66 from Memory Location 82 and Stored into 10 Register
+                         AR[00]= 82, DR[01]= cc, GR[10]= 66, PR[11]= 1b
+
+                 870 ns  FETCH STATE: Instruction is Fetched
+                 876 ns  DECODE STATE: Instruction is Decoded
+                 882 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 888 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 82, DR[01]= 66, GR[10]= 66, PR[11]= 1c
+
+                 900 ns  FETCH STATE: Instruction is Fetched
+                 906 ns  DECODE STATE: Instruction is Decoded
+                 912 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 918 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 82, DR[01]= 66, GR[10]= 62, PR[11]= 1d
+
+                 930 ns  FETCH STATE: Instruction is Fetched
+                 936 ns  DECODE STATE: Instruction is Decoded
+                 942 ns  Instruction : LMS,9 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 948 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 9
+                         AR[00]= 82, DR[01]= 66, GR[10]= 92, PR[11]= 1e
+
+                 960 ns  FETCH STATE: Instruction is Fetched
+                 966 ns  DECODE STATE: Instruction is Decoded
+                 972 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                 978 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 92, DR[01]= 66, GR[10]= 92, PR[11]= 1f
+
+                 990 ns  FETCH STATE: Instruction is Fetched
+                 996 ns  DECODE STATE: Instruction is Decoded
+                1002 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1008 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 92 to Memory Address...  
+                1014 ns  EXECUTE_2 STATE: Read the Data 88 from Memory Location 92 and Stored into 10 Register
+                         AR[00]= 92, DR[01]= 66, GR[10]= 88, PR[11]= 20
+
+                1026 ns  FETCH STATE: Instruction is Fetched
+                1032 ns  DECODE STATE: Instruction is Decoded
+                1038 ns  Instruction : SUB,2,1 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1044 ns  EXECUTE_1 STATE: Executing SUB...Providing ALU Opcodes 88 and 66 and Subtracting them...   
+                1050 ns  01 Register Data = 66  and 10 Register Data = 88 
+                         AR[00]= 92, DR[01]= 66, GR[10]= 22, PR[11]= 21
+
+                1062 ns  FETCH STATE: Instruction is Fetched
+                1068 ns  DECODE STATE: Instruction is Decoded
+                1074 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1080 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 92, DR[01]= 66, GR[10]= 22, PR[11]= 22
+
+                1092 ns  FETCH STATE: Instruction is Fetched
+                1098 ns  DECODE STATE: Instruction is Decoded
+                1104 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1110 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 92, DR[01]= 66, GR[10]= 82, PR[11]= 23
+
+                1122 ns  FETCH STATE: Instruction is Fetched
+                1128 ns  DECODE STATE: Instruction is Decoded
+                1134 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1140 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 82, DR[01]= 66, GR[10]= 82, PR[11]= 24
+
+                1152 ns  FETCH STATE: Instruction is Fetched
+                1158 ns  DECODE STATE: Instruction is Decoded
+                1164 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1170 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 82  to Memory Address...  
+                1176 ns  EXECUTE_2 STATE: 10 Register Data 82 is Written at Memory Address 82
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= xx
+
+                1188 ns  FETCH STATE: Instruction is Fetched
+                1194 ns  DECODE STATE: Instruction is Decoded
+                1200 ns  Instruction : CFR;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1206 ns  EXECUTE_1 STATE: Executed CFR and Stored data  at LSBs of GR = 1
+                         AR[00]= 82, DR[01]= 66, GR[10]= 81, PR[11]= 26
+
+                1218 ns  FETCH STATE: Instruction is Fetched
+                1224 ns  DECODE STATE: Instruction is Decoded
+                1230 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1236 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 82, DR[01]= 81, GR[10]= 81, PR[11]= 27
+
+                1248 ns  FETCH STATE: Instruction is Fetched
+                1254 ns  DECODE STATE: Instruction is Decoded
+                1260 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1266 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= 82, DR[01]= 81, GR[10]= 80, PR[11]= 28
+
+                1278 ns  FETCH STATE: Instruction is Fetched
+                1284 ns  DECODE STATE: Instruction is Decoded
+                1290 ns  Instruction : LMS,f ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1296 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = f
+                         AR[00]= 82, DR[01]= 81, GR[10]= f0, PR[11]= 29
+
+                1308 ns  FETCH STATE: Instruction is Fetched
+                1314 ns  DECODE STATE: Instruction is Decoded
+                1320 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1326 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= f0, DR[01]= 81, GR[10]= f0, PR[11]= 2a
+
+                1338 ns  FETCH STATE: Instruction is Fetched
+                1344 ns  DECODE STATE: Instruction is Decoded
+                1350 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1356 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = f0  to Memory Address...  
+                1362 ns  EXECUTE_2 STATE: 01 Register Data 81 is Written at Memory Address f0
+                         WRITEEN DATA : RAM[80h]= 89, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= 81
+
+                1374 ns  FETCH STATE: Instruction is Fetched
+                1380 ns  DECODE STATE: Instruction is Decoded
+                1392 ns  EXECUTE_1 STATE: Executed NOP and  No Operation is Perfomed
+
+                1404 ns  FETCH STATE: Instruction is Fetched
+                1410 ns  DECODE STATE: Instruction is Decoded
+                1416 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1422 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= f0, DR[01]= 81, GR[10]= f0, PR[11]= 2d
+
+                1434 ns  FETCH STATE: Instruction is Fetched
+                1440 ns  DECODE STATE: Instruction is Decoded
+                1446 ns  Instruction : LMS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1452 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 0
+                         AR[00]= f0, DR[01]= 81, GR[10]= 00, PR[11]= 2e
+
+                1464 ns  FETCH STATE: Instruction is Fetched
+                1470 ns  DECODE STATE: Instruction is Decoded
+                1476 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1482 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 00, DR[01]= 81, GR[10]= 00, PR[11]= 2f
+
+                1494 ns  FETCH STATE: Instruction is Fetched
+                1500 ns  DECODE STATE: Instruction is Decoded
+                1506 ns  Instruction : JMP 
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1512 ns  EXECUTE_1 STATE: Executed JMP and Jumped to Instruction stored at 00 Memory Location
+
+                1524 ns  FETCH STATE: Instruction is Fetched
+                1530 ns  DECODE STATE: Instruction is Decoded
+                1536 ns  Instruction : LLS,5 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1542 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 5
+                         AR[00]= 00, DR[01]= 81, GR[10]= 05, PR[11]= 01
+
+                1554 ns  FETCH STATE: Instruction is Fetched
+                1560 ns  DECODE STATE: Instruction is Decoded
+                1566 ns  Instruction : LMS,4 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1572 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 4
+                         AR[00]= 00, DR[01]= 81, GR[10]= 45, PR[11]= 02
+
+                1584 ns  FETCH STATE: Instruction is Fetched
+                1590 ns  DECODE STATE: Instruction is Decoded
+                1596 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1602 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 00, DR[01]= 45, GR[10]= 45, PR[11]= 03
+
+                1614 ns  FETCH STATE: Instruction is Fetched
+                1620 ns  DECODE STATE: Instruction is Decoded
+                1626 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1632 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= 00, DR[01]= 45, GR[10]= 40, PR[11]= 04
+
+                1644 ns  FETCH STATE: Instruction is Fetched
+                1650 ns  DECODE STATE: Instruction is Decoded
+                1656 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1662 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 00, DR[01]= 45, GR[10]= 80, PR[11]= 05
+
+                1674 ns  FETCH STATE: Instruction is Fetched
+                1680 ns  DECODE STATE: Instruction is Decoded
+                1686 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1692 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 80, DR[01]= 45, GR[10]= 80, PR[11]= 06
+
+                1704 ns  FETCH STATE: Instruction is Fetched
+                1710 ns  DECODE STATE: Instruction is Decoded
+                1716 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1722 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 80 to Memory Address...  
+                1728 ns  EXECUTE_2 STATE: Read the Data 89 from Memory Location 80 and Stored into 10 Register
+                         AR[00]= 80, DR[01]= 45, GR[10]= 89, PR[11]= 07
+
+                1740 ns  FETCH STATE: Instruction is Fetched
+                1746 ns  DECODE STATE: Instruction is Decoded
+                1752 ns  Instruction : ADD,2,1 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1758 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes 89 and 45 and Adding them...   
+                1764 ns  10 Register Data = 89  and 01 Register Data = 45 
+                         AR[00]= 80, DR[01]= 45, GR[10]= ce, PR[11]= 08
+
+                1776 ns  FETCH STATE: Instruction is Fetched
+                1782 ns  DECODE STATE: Instruction is Decoded
+                1788 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1794 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 80  to Memory Address...  
+                1800 ns  EXECUTE_2 STATE: 10 Register Data ce is Written at Memory Address 80
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= cc,  RAM[82h]= 82,  RAM[FO]= 81
+
+                1812 ns  FETCH STATE: Instruction is Fetched
+                1818 ns  DECODE STATE: Instruction is Decoded
+                1824 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1830 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 80, DR[01]= 45, GR[10]= c1, PR[11]= 0a
+
+                1842 ns  FETCH STATE: Instruction is Fetched
+                1848 ns  DECODE STATE: Instruction is Decoded
+                1854 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1860 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 80, DR[01]= 45, GR[10]= 81, PR[11]= 0b
+
+                1872 ns  FETCH STATE: Instruction is Fetched
+                1878 ns  DECODE STATE: Instruction is Decoded
+                1884 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1890 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= 45, GR[10]= 81, PR[11]= 0c
+
+                1902 ns  FETCH STATE: Instruction is Fetched
+                1908 ns  DECODE STATE: Instruction is Decoded
+                1914 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1920 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 81 to Memory Address...  
+                1926 ns  EXECUTE_2 STATE: Read the Data cc from Memory Location 81 and Stored into 10 Register
+                         AR[00]= 81, DR[01]= 45, GR[10]= cc, PR[11]= 0d
+
+                1938 ns  FETCH STATE: Instruction is Fetched
+                1944 ns  DECODE STATE: Instruction is Decoded
+                1950 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1956 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 81, DR[01]= cc, GR[10]= cc, PR[11]= 0e
+
+                1968 ns  FETCH STATE: Instruction is Fetched
+                1974 ns  DECODE STATE: Instruction is Decoded
+                1980 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                1986 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 81, DR[01]= cc, GR[10]= c1, PR[11]= 0f
+
+                1998 ns  FETCH STATE: Instruction is Fetched
+                2004 ns  DECODE STATE: Instruction is Decoded
+                2010 ns  Instruction : LMS,9 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2016 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 9
+                         AR[00]= 81, DR[01]= cc, GR[10]= 91, PR[11]= 10
+
+                2028 ns  FETCH STATE: Instruction is Fetched
+                2034 ns  DECODE STATE: Instruction is Decoded
+                2040 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2046 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 91, DR[01]= cc, GR[10]= 91, PR[11]= 11
+
+                2058 ns  FETCH STATE: Instruction is Fetched
+                2064 ns  DECODE STATE: Instruction is Decoded
+                2070 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2076 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 91 to Memory Address...  
+                2082 ns  EXECUTE_2 STATE: Read the Data 77 from Memory Location 91 and Stored into 10 Register
+                         AR[00]= 91, DR[01]= cc, GR[10]= 77, PR[11]= 12
+
+                2094 ns  FETCH STATE: Instruction is Fetched
+                2100 ns  DECODE STATE: Instruction is Decoded
+                2106 ns  Instruction : ADD,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2112 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes cc and 77 and Adding them...   
+                2118 ns  01 Register Data = cc  and 10 Register Data = 77 
+                         AR[00]= 91, DR[01]= 43, GR[10]= 77, PR[11]= 13
+
+                2130 ns  FETCH STATE: Instruction is Fetched
+                2136 ns  DECODE STATE: Instruction is Decoded
+                2142 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2148 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 91, DR[01]= 43, GR[10]= 71, PR[11]= 14
+
+                2160 ns  FETCH STATE: Instruction is Fetched
+                2166 ns  DECODE STATE: Instruction is Decoded
+                2172 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2178 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 91, DR[01]= 43, GR[10]= 81, PR[11]= 15
+
+                2190 ns  FETCH STATE: Instruction is Fetched
+                2196 ns  DECODE STATE: Instruction is Decoded
+                2202 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2208 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= 43, GR[10]= 81, PR[11]= 16
+
+                2220 ns  FETCH STATE: Instruction is Fetched
+                2226 ns  DECODE STATE: Instruction is Decoded
+                2232 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2238 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 81  to Memory Address...  
+                2244 ns  EXECUTE_2 STATE: 01 Register Data 43 is Written at Memory Address 81
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 81
+
+                2256 ns  FETCH STATE: Instruction is Fetched
+                2262 ns  DECODE STATE: Instruction is Decoded
+                2268 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2274 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 81, DR[01]= 43, GR[10]= 82, PR[11]= 18
+
+                2286 ns  FETCH STATE: Instruction is Fetched
+                2292 ns  DECODE STATE: Instruction is Decoded
+                2298 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2304 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 81, DR[01]= 43, GR[10]= 82, PR[11]= 19
+
+                2316 ns  FETCH STATE: Instruction is Fetched
+                2322 ns  DECODE STATE: Instruction is Decoded
+                2328 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2334 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 82, DR[01]= 43, GR[10]= 82, PR[11]= 1a
+
+                2346 ns  FETCH STATE: Instruction is Fetched
+                2352 ns  DECODE STATE: Instruction is Decoded
+                2358 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2364 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 82 to Memory Address...  
+                2370 ns  EXECUTE_2 STATE: Read the Data 82 from Memory Location 82 and Stored into 10 Register
+                         AR[00]= 82, DR[01]= 43, GR[10]= 82, PR[11]= 1b
+
+                2382 ns  FETCH STATE: Instruction is Fetched
+                2388 ns  DECODE STATE: Instruction is Decoded
+                2394 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2400 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 82, DR[01]= 82, GR[10]= 82, PR[11]= 1c
+
+                2412 ns  FETCH STATE: Instruction is Fetched
+                2418 ns  DECODE STATE: Instruction is Decoded
+                2424 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2430 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 82, DR[01]= 82, GR[10]= 82, PR[11]= 1d
+
+                2442 ns  FETCH STATE: Instruction is Fetched
+                2448 ns  DECODE STATE: Instruction is Decoded
+                2454 ns  Instruction : LMS,9 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2460 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 9
+                         AR[00]= 82, DR[01]= 82, GR[10]= 92, PR[11]= 1e
+
+                2472 ns  FETCH STATE: Instruction is Fetched
+                2478 ns  DECODE STATE: Instruction is Decoded
+                2484 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2490 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 92, DR[01]= 82, GR[10]= 92, PR[11]= 1f
+
+                2502 ns  FETCH STATE: Instruction is Fetched
+                2508 ns  DECODE STATE: Instruction is Decoded
+                2514 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2520 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 92 to Memory Address...  
+                2526 ns  EXECUTE_2 STATE: Read the Data 88 from Memory Location 92 and Stored into 10 Register
+                         AR[00]= 92, DR[01]= 82, GR[10]= 88, PR[11]= 20
+
+                2538 ns  FETCH STATE: Instruction is Fetched
+                2544 ns  DECODE STATE: Instruction is Decoded
+                2550 ns  Instruction : SUB,2,1 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2556 ns  EXECUTE_1 STATE: Executing SUB...Providing ALU Opcodes 88 and 82 and Subtracting them...   
+                2562 ns  01 Register Data = 82  and 10 Register Data = 88 
+                         AR[00]= 92, DR[01]= 82, GR[10]= 06, PR[11]= 21
+
+                2574 ns  FETCH STATE: Instruction is Fetched
+                2580 ns  DECODE STATE: Instruction is Decoded
+                2586 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2592 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 92, DR[01]= 82, GR[10]= 02, PR[11]= 22
+
+                2604 ns  FETCH STATE: Instruction is Fetched
+                2610 ns  DECODE STATE: Instruction is Decoded
+                2616 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2622 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 92, DR[01]= 82, GR[10]= 82, PR[11]= 23
+
+                2634 ns  FETCH STATE: Instruction is Fetched
+                2640 ns  DECODE STATE: Instruction is Decoded
+                2646 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2652 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 82, DR[01]= 82, GR[10]= 82, PR[11]= 24
+
+                2664 ns  FETCH STATE: Instruction is Fetched
+                2670 ns  DECODE STATE: Instruction is Decoded
+                2676 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2682 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 82  to Memory Address...  
+                2688 ns  EXECUTE_2 STATE: 10 Register Data 82 is Written at Memory Address 82
+                2700 ns  FETCH STATE: Instruction is Fetched
+                2706 ns  DECODE STATE: Instruction is Decoded
+                2712 ns  Instruction : CFR;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2718 ns  EXECUTE_1 STATE: Executed CFR and Stored data  at LSBs of GR = 0
+                         AR[00]= 82, DR[01]= 82, GR[10]= 80, PR[11]= 26
+
+                2730 ns  FETCH STATE: Instruction is Fetched
+                2736 ns  DECODE STATE: Instruction is Decoded
+                2742 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2748 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 82, DR[01]= 80, GR[10]= 80, PR[11]= 27
+
+                2760 ns  FETCH STATE: Instruction is Fetched
+                2766 ns  DECODE STATE: Instruction is Decoded
+                2772 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2778 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= 82, DR[01]= 80, GR[10]= 80, PR[11]= 28
+
+                2790 ns  FETCH STATE: Instruction is Fetched
+                2796 ns  DECODE STATE: Instruction is Decoded
+                2802 ns  Instruction : LMS,f ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2808 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = f
+                         AR[00]= 82, DR[01]= 80, GR[10]= f0, PR[11]= 29
+
+                2820 ns  FETCH STATE: Instruction is Fetched
+                2826 ns  DECODE STATE: Instruction is Decoded
+                2832 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2838 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= f0, DR[01]= 80, GR[10]= f0, PR[11]= 2a
+
+                2850 ns  FETCH STATE: Instruction is Fetched
+                2856 ns  DECODE STATE: Instruction is Decoded
+                2862 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2868 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = f0  to Memory Address...  
+                2874 ns  EXECUTE_2 STATE: 01 Register Data 80 is Written at Memory Address f0
+                         WRITEEN DATA : RAM[80h]= ce, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 80
+
+                2886 ns  FETCH STATE: Instruction is Fetched
+                2892 ns  DECODE STATE: Instruction is Decoded
+                2904 ns  EXECUTE_1 STATE: Executed NOP and  No Operation is Perfomed
+
+                2916 ns  FETCH STATE: Instruction is Fetched
+                2922 ns  DECODE STATE: Instruction is Decoded
+                2928 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2934 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= f0, DR[01]= 80, GR[10]= f0, PR[11]= 2d
+
+                2946 ns  FETCH STATE: Instruction is Fetched
+                2952 ns  DECODE STATE: Instruction is Decoded
+                2958 ns  Instruction : LMS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2964 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 0
+                         AR[00]= f0, DR[01]= 80, GR[10]= 00, PR[11]= 2e
+
+                2976 ns  FETCH STATE: Instruction is Fetched
+                2982 ns  DECODE STATE: Instruction is Decoded
+                2988 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                2994 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 00, DR[01]= 80, GR[10]= 00, PR[11]= 2f
+
+                3006 ns  FETCH STATE: Instruction is Fetched
+                3012 ns  DECODE STATE: Instruction is Decoded
+                3018 ns  Instruction : JMP 
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3024 ns  EXECUTE_1 STATE: Executed JMP and Jumped to Instruction stored at 00 Memory Location
+
+                3036 ns  FETCH STATE: Instruction is Fetched
+                3042 ns  DECODE STATE: Instruction is Decoded
+                3048 ns  Instruction : LLS,5 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3054 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 5
+                         AR[00]= 00, DR[01]= 80, GR[10]= 05, PR[11]= 01
+
+                3066 ns  FETCH STATE: Instruction is Fetched
+                3072 ns  DECODE STATE: Instruction is Decoded
+                3078 ns  Instruction : LMS,4 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3084 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 4
+                         AR[00]= 00, DR[01]= 80, GR[10]= 45, PR[11]= 02
+
+                3096 ns  FETCH STATE: Instruction is Fetched
+                3102 ns  DECODE STATE: Instruction is Decoded
+                3108 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3114 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 00, DR[01]= 45, GR[10]= 45, PR[11]= 03
+
+                3126 ns  FETCH STATE: Instruction is Fetched
+                3132 ns  DECODE STATE: Instruction is Decoded
+                3138 ns  Instruction : LLS,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3144 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 0
+                         AR[00]= 00, DR[01]= 45, GR[10]= 40, PR[11]= 04
+
+                3156 ns  FETCH STATE: Instruction is Fetched
+                3162 ns  DECODE STATE: Instruction is Decoded
+                3168 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3174 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 00, DR[01]= 45, GR[10]= 80, PR[11]= 05
+
+                3186 ns  FETCH STATE: Instruction is Fetched
+                3192 ns  DECODE STATE: Instruction is Decoded
+                3198 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3204 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 80, DR[01]= 45, GR[10]= 80, PR[11]= 06
+
+                3216 ns  FETCH STATE: Instruction is Fetched
+                3222 ns  DECODE STATE: Instruction is Decoded
+                3228 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3234 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 80 to Memory Address...  
+                3240 ns  EXECUTE_2 STATE: Read the Data ce from Memory Location 80 and Stored into 10 Register
+                         AR[00]= 80, DR[01]= 45, GR[10]= ce, PR[11]= 07
+
+                3252 ns  FETCH STATE: Instruction is Fetched
+                3258 ns  DECODE STATE: Instruction is Decoded
+                3264 ns  Instruction : ADD,2,1 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3270 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes ce and 45 and Adding them...   
+                3276 ns  10 Register Data = ce  and 01 Register Data = 45 
+                         AR[00]= 80, DR[01]= 45, GR[10]= 13, PR[11]= 08
+
+                3288 ns  FETCH STATE: Instruction is Fetched
+                3294 ns  DECODE STATE: Instruction is Decoded
+                3300 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3306 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 80  to Memory Address...  
+                3312 ns  EXECUTE_2 STATE: 10 Register Data 13 is Written at Memory Address 80
+                         WRITEEN DATA : RAM[80h]= 13, RAM[81h]= 43,  RAM[82h]= 82,  RAM[FO]= 80
+
+                3324 ns  FETCH STATE: Instruction is Fetched
+                3330 ns  DECODE STATE: Instruction is Decoded
+                3336 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3342 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 80, DR[01]= 45, GR[10]= 11, PR[11]= 0a
+
+                3354 ns  FETCH STATE: Instruction is Fetched
+                3360 ns  DECODE STATE: Instruction is Decoded
+                3366 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3372 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 80, DR[01]= 45, GR[10]= 81, PR[11]= 0b
+
+                3384 ns  FETCH STATE: Instruction is Fetched
+                3390 ns  DECODE STATE: Instruction is Decoded
+                3396 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3402 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= 45, GR[10]= 81, PR[11]= 0c
+
+                3414 ns  FETCH STATE: Instruction is Fetched
+                3420 ns  DECODE STATE: Instruction is Decoded
+                3426 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3432 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 81 to Memory Address...  
+                3438 ns  EXECUTE_2 STATE: Read the Data 43 from Memory Location 81 and Stored into 10 Register
+                         AR[00]= 81, DR[01]= 45, GR[10]= 43, PR[11]= 0d
+
+                3450 ns  FETCH STATE: Instruction is Fetched
+                3456 ns  DECODE STATE: Instruction is Decoded
+                3462 ns  Instruction : CPR,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3468 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 01 register
+                         AR[00]= 81, DR[01]= 43, GR[10]= 43, PR[11]= 0e
+
+                3480 ns  FETCH STATE: Instruction is Fetched
+                3486 ns  DECODE STATE: Instruction is Decoded
+                3492 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3498 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 81, DR[01]= 43, GR[10]= 41, PR[11]= 0f
+
+                3510 ns  FETCH STATE: Instruction is Fetched
+                3516 ns  DECODE STATE: Instruction is Decoded
+                3522 ns  Instruction : LMS,9 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3528 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 9
+                         AR[00]= 81, DR[01]= 43, GR[10]= 91, PR[11]= 10
+
+                3540 ns  FETCH STATE: Instruction is Fetched
+                3546 ns  DECODE STATE: Instruction is Decoded
+                3552 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3558 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 91, DR[01]= 43, GR[10]= 91, PR[11]= 11
+
+                3570 ns  FETCH STATE: Instruction is Fetched
+                3576 ns  DECODE STATE: Instruction is Decoded
+                3582 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3588 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 91 to Memory Address...  
+                3594 ns  EXECUTE_2 STATE: Read the Data 77 from Memory Location 91 and Stored into 10 Register
+                         AR[00]= 91, DR[01]= 43, GR[10]= 77, PR[11]= 12
+
+                3606 ns  FETCH STATE: Instruction is Fetched
+                3612 ns  DECODE STATE: Instruction is Decoded
+                3618 ns  Instruction : ADD,1,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3624 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes 43 and 77 and Adding them...   
+                3630 ns  01 Register Data = 43  and 10 Register Data = 77 
+                         AR[00]= 91, DR[01]= ba, GR[10]= 77, PR[11]= 13
+
+                3642 ns  FETCH STATE: Instruction is Fetched
+                3648 ns  DECODE STATE: Instruction is Decoded
+                3654 ns  Instruction : LLS,1 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3660 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 1
+                         AR[00]= 91, DR[01]= ba, GR[10]= 71, PR[11]= 14
+
+                3672 ns  FETCH STATE: Instruction is Fetched
+                3678 ns  DECODE STATE: Instruction is Decoded
+                3684 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3690 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 91, DR[01]= ba, GR[10]= 81, PR[11]= 15
+
+                3702 ns  FETCH STATE: Instruction is Fetched
+                3708 ns  DECODE STATE: Instruction is Decoded
+                3714 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3720 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 81, DR[01]= ba, GR[10]= 81, PR[11]= 16
+
+                3732 ns  FETCH STATE: Instruction is Fetched
+                3738 ns  DECODE STATE: Instruction is Decoded
+                3744 ns  Instruction : WRM,0 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3750 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 81  to Memory Address...  
+                3756 ns  EXECUTE_2 STATE: 01 Register Data ba is Written at Memory Address 81
+                         WRITEEN DATA : RAM[80h]= 13, RAM[81h]= ba,  RAM[82h]= 82,  RAM[FO]= 80
+
+                3768 ns  FETCH STATE: Instruction is Fetched
+                3774 ns  DECODE STATE: Instruction is Decoded
+                3780 ns  Instruction : LLS,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3786 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2
+                         AR[00]= 81, DR[01]= ba, GR[10]= 82, PR[11]= 18
+
+                3798 ns  FETCH STATE: Instruction is Fetched
+                3804 ns  DECODE STATE: Instruction is Decoded
+                3810 ns  Instruction : LMS,8 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3816 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 8
+                         AR[00]= 81, DR[01]= ba, GR[10]= 82, PR[11]= 19
+
+                3828 ns  FETCH STATE: Instruction is Fetched
+                3834 ns  DECODE STATE: Instruction is Decoded
+                3840 ns  Instruction : CPR,0,2 ;
+                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3846 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 10 to 00 register
+                         AR[00]= 82, DR[01]= ba, GR[10]= 82, PR[11]= 1a
+
+                3858 ns  FETCH STATE: Instruction is Fetched
+                3864 ns  DECODE STATE: Instruction is Decoded
+                3870 ns  Instruction : RDM,2 ;
+                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+                3876 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 82 to Memory Address...  
+                3882 ns  EXECUTE_2 STATE: Read the Data 82 from Memory Location 82 and Stored into 10 Register
+$finish called from file "scalar_test.v", line 140.
+$finish at simulation time               388500
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 3885000 ps
+CPU Time:      0.290 seconds;       Data structure size:   0.0Mb
+Wed Dec 10 13:32:24 2014

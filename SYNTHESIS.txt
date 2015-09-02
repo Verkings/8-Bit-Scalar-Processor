@@ -1,0 +1,1674 @@
+Warning: DC is only available in Tcl and XG mode. The -tcl_mode and -xg_mode options are no longer required.
+
+                        DC Professional (TM)
+                           DC Expert (TM)
+                            DC Ultra (TM)
+                       FloorPlan Manager (TM)
+                          HDL Compiler (TM)
+                         VHDL Compiler (TM)
+                        Library Compiler (TM)
+                      DesignWare Developer (TM)
+                          DFT Compiler (TM)
+                            BSD Compiler
+                         Power Compiler (TM)
+
+           Version C-2009.06-SP5 for linux -- Jan 15, 2010
+              Copyright (c) 1988-2009 by Synopsys, Inc.
+                         ALL RIGHTS RESERVED
+
+This software and the associated documentation are confidential and 
+proprietary to Synopsys, Inc. Your use or disclosure of this software 
+is subject to the terms and conditions of a written license agreement 
+between you, or your company, and Synopsys, Inc.
+
+The above trademark notice does not imply that you are licensed to use 
+all of the listed products. You are licensed to use only those products 
+for which you have lawfully obtained a valid license key.
+
+Initializing...
+set link_library {/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25}
+/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25
+set target_library {/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25}
+/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25
+set symbol_library {/apps/toshiba/sjsu/synopsys/tc240c/tc240c.workview.sdb}
+/apps/toshiba/sjsu/synopsys/tc240c/tc240c.workview.sdb
+set synthetic_library {dw_foundation.sldb standard.sldb}
+dw_foundation.sldb standard.sldb
+set_min_library /apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25 -min_version /apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_BCCOM25
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25'
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_BCCOM25'
+Warning: Function '=' leaked 1 allocations for 16 bytes. (EQN-21)
+1
+read_verilog 271control.v
+Loading db file '/apps/synopsys/SYNTH/libraries/syn/gtech.db'
+Loading db file '/apps/synopsys/SYNTH/libraries/syn/standard.sldb'
+  Loading link library 'tc240c'
+  Loading link library 'gtech'
+Loading verilog file '/home/pa/pate8552/Project/271control.v'
+Detecting input file type automatically (-rtl or -netlist).
+Running DC verilog reader
+Reading with Presto HDL Compiler (equivalent to -rtl option).
+Running PRESTO HDLC
+Loading db file '/apps/synopsys/SYNTH/libraries/syn/dw_foundation.sldb'
+Warning: The following synthetic libraries should be added to 
+	the list of link libraries: 
+	'dw_foundation.sldb'. (UISN-26)
+Compiling source file /home/pa/pate8552/Project/271control.v
+Warning:  Little argument or return value checking implemented for system task or function '$time'. (VER-209)
+Warning:  /home/pa/pate8552/Project/271control.v:172: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:178: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:185: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:185: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:192: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:192: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:199: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:199: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:206: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:213: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:238: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:246: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:254: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:263: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:263: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:271: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:271: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:281: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:281: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:291: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:299: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:307: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:172: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:178: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:185: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:185: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:192: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:192: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:199: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:199: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:206: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:213: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:238: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:246: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:254: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:263: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:263: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:271: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:271: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:281: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:281: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:291: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:299: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:307: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:329: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:337: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:348: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:357: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:396: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:401: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:406: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:411: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:416: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:421: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:426: Invalid escape sequence '\0' in call to '$display'. (VER-941)
+Warning:  /home/pa/pate8552/Project/271control.v:75: 'OPRN' is being read, but does not appear in the sensitivity list of the block. (ELAB-292)
+Warning:  /home/pa/pate8552/Project/271control.v:75: 'cout' is being read, but does not appear in the sensitivity list of the block. (ELAB-292)
+
+Statistics for case statements in always block at line 87 in file
+	'/home/pa/pate8552/Project/271control.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|            89            |     no/auto      |
+===============================================
+$display output: 00 ns  FETCH STATE: Instruction is Fetched
+$display output: 00 ns  DECODE STATE: Instruction is Decoded
+$display output: 00 ns  Instruction : JMP 
+$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : RDM,2h ;
+?$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : WRM,2h ;
+?$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : CPR,2h,2h ;
+ ??$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : ADD,2h,2h ;
+ ??$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : SUB,2h,2h ;
+ ??$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : LLS,2h ;
+ ?$display output:                         UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : LMS,2h ;
+?$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: 00 ns  Instruction : CFR;
+$display output:                          UPDATE STATE: PR Register is Incremented to Fetch the next Instruction. . .
+$display output: $display output: 00 ns  EXECUTE_1 STATE: Executed NOP and  No Operation is Perfomed
+
+$display output: 00 ns  EXECUTE_1 STATE: Executed JMP and Jumped to Instruction stored at 8H Memory Location
+
+?$display output: 00 ns  EXECUTE_1 STATE: Executing RDM...Setting AR = 8h to Memory Address...  
+?$display output: 00 ns  EXECUTE_1 STATE: Executing WRM...Setting AR = 8h  to Memory Address...  
+?$display output: 00 ns  EXECUTE_1 STATE: Executed CPR and  Copied the Contents of 2b to 2b register
+??$display output: 00 ns  EXECUTE_1 STATE: Executing ADD...Providing ALU Opcodes 8h and 8h and Adding them...   
+??$display output: 00 ns  EXECUTE_1 STATE: Executing SUB...Providing ALU Opcodes 8h and 8h and Subtracting them...   
+??$display output: 00 ns  EXECUTE_1 STATE: Executed LLS and Stored data at LSBs of GR = 2h
+?$display output: 00 ns  EXECUTE_1 STATE: Executed LMS and Stored data at MSBs of GR = 2h
+?$display output: 00 ns  EXECUTE_1 STATE: Executed CFR and Stored data  at LSBs of GR = 2h
+?$display output: 00 ns EXECUTE_1 STATE: INVALID INSTRUCTION $display output: 00 ns  EXECUTE_2 STATE: Read the Data 8h from Memory Location 8h and Stored into 2b Register
+???$display output: 00 ns  EXECUTE_2 STATE: 2b Register Data 8h is Written at Memory Address 8h
+???$display output: 00 ns  2b Register Data = 8h  and 2b Register Data = 8h 
+????$display output: 00 ns  2b Register Data = 8h  and 2b Register Data = 8h 
+????$display output: $display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output:                          AR[00]= 8h, DR[01]= 8h, GR[10]= 8h, PR[11]= 8h
+
+????$display output: 
+Statistics for case statements in always block at line 105 in file
+	'/home/pa/pate8552/Project/271control.v'
+===============================================
+|           Line           |  full/ parallel  |
+===============================================
+|           135            |     no/auto      |
+|           157            |    auto/auto     |
+|           231            |    auto/auto     |
+|           319            |    auto/auto     |
+|           392            |    auto/auto     |
+===============================================
+
+Inferred memory devices in process
+	in routine SCALAR_PROCESSOR line 80 in file
+		'/home/pa/pate8552/Project/271control.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|      state_reg      | Flip-flop |   3   |  Y  | N  | Y  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine SCALAR_PROCESSOR line 105 in file
+		'/home/pa/pate8552/Project/271control.v'.
+===============================================================================
+|    Register Name    |   Type    | Width | Bus | MB | AR | AS | SR | SS | ST |
+===============================================================================
+|       FR_reg        | Flip-flop |   4   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       OP2_reg       | Flip-flop |   8   |  Y  | N  | Y  | N  | N  | N  | N  |
+|      ARRAY_reg      | Flip-flop |  32   |  N  | N  | Y  | N  | N  | N  | N  |
+|        S_reg        | Flip-flop |   2   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       rd_reg        | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
+|       OP1_reg       | Flip-flop |   8   |  Y  | N  | Y  | N  | N  | N  | N  |
+|      addr_reg       | Flip-flop |   8   |  Y  | N  | Y  | N  | N  | N  | N  |
+|       wrt_reg       | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
+|      OPRN_reg       | Flip-flop |   1   |  N  | N  | Y  | N  | N  | N  | N  |
+|        D_reg        | Flip-flop |   2   |  Y  | N  | Y  | N  | N  | N  | N  |
+|     opcode_reg      | Flip-flop |   4   |  Y  | N  | Y  | N  | N  | N  | N  |
+|      dat_T_reg      | Flip-flop |   8   |  Y  | N  | Y  | N  | N  | N  | N  |
+===============================================================================
+
+Inferred memory devices in process
+	in routine SCALAR_PROCESSOR line 87 in file
+		'/home/pa/pate8552/Project/271control.v'.
+===========================================================================
+|    Register Name    | Type  | Width | Bus | MB | AR | AS | SR | SS | ST |
+===========================================================================
+|     n_state_reg     | Latch |   3   |  Y  | N  | N  | N  | -  | -  | -  |
+===========================================================================
+
+Inferred tri-state devices in process
+	in routine SCALAR_PROCESSOR line 55 in file
+		'/home/pa/pate8552/Project/271control.v'.
+=================================================
+| Register Name |       Type       | Width | MB |
+=================================================
+|    dat_tri    | Tri-State Buffer |   8   | N  |
+=================================================
+Statistics for MUX_OPs
+===============================================================
+|   block name/line    | Inputs | Outputs | # sel inputs | MB |
+===============================================================
+| SCALAR_PROCESSOR/256 |   4    |    8    |      2       | N  |
+| SCALAR_PROCESSOR/264 |   4    |    8    |      2       | N  |
+===============================================================
+Presto compilation completed successfully.
+Current design is now '/home/pa/pate8552/Project/SCALAR_PROCESSOR.db:SCALAR_PROCESSOR'
+Loaded 5 designs.
+Current design is 'SCALAR_PROCESSOR'.
+SCALAR_PROCESSOR ALU RCA_8 add_full add_half
+current_design SCALAR_PROCESSOR
+Current design is 'SCALAR_PROCESSOR'.
+{SCALAR_PROCESSOR}
+link
+
+  Linking design 'SCALAR_PROCESSOR'
+  Using the following designs and libraries:
+  --------------------------------------------------------------------------
+  tc240c (library)            /apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25
+
+1
+check_design
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2376' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2377' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2378' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2379' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2380' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2381' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2382' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2383' does not drive any nets. (LINT-1)
+Warning: In design 'SCALAR_PROCESSOR', cell 'C2384' does not drive any nets. (LINT-1)
+Warning: Net 'dat[0]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[1]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[2]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[3]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[4]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[5]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[6]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[7]' has a single tri-state driver.  (LINT-63)
+Information: Design 'SCALAR_PROCESSOR' has multiply instantiated designs. Use the '-multiple_designs' switch for more information. (LINT-78)
+1
+create_clock CLK -name CLK -period 3.00000000
+Warning: Can't find object 'CLK' in design 'SCALAR_PROCESSOR'. (UID-95)
+Error: Value for list 'source_objects' must have 1 elements. (CMD-036)
+0
+set_propagated_clock CLK
+Warning: Can't find object 'CLK' in design 'SCALAR_PROCESSOR'. (UID-95)
+Error: Value for list 'object_list' must have 1 elements. (CMD-036)
+0
+set_clock_uncertainty .25 CLK
+Warning: Can't find object 'CLK' in design 'SCALAR_PROCESSOR'. (UID-95)
+Error: Value for list 'object_list' must have 1 elements. (CMD-036)
+0
+set_max_delay 1.1 -from [all_inputs]
+1
+set_max_delay 1.1 -to [all_outputs]
+1
+#set_max_delay 5 -to sum
+#set_load 160 sum
+set_max_area 1200
+1
+compile -map_effort high
+Warning: The following synthetic libraries should be added to 
+	the list of link libraries: 
+	'dw_foundation.sldb'. (UISN-26)
+Information: Checking out the license 'DesignWare'. (SEC-104)
+Information: Evaluating DesignWare library utilization. (UISN-27)
+
+============================================================================
+| DesignWare Building Block Library       |      Version       | Available |
+============================================================================
+| Basic DW Building Blocks                | C-2009.06-DWBB_0912 |    *     |
+| Licensed DW Building Blocks             | C-2009.06-DWBB_0912 |    *     |
+============================================================================
+
+Warning: Net 'dat[0]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[1]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[2]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[3]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[4]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[5]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[6]' has a single tri-state driver.  (LINT-63)
+Warning: Net 'dat[7]' has a single tri-state driver.  (LINT-63)
+
+Information: There are 9 potential problems in your design. Please run 'check_design' for more information. (LINT-99)
+
+
+Warning: Operating condition WCCOM25 set on design SCALAR_PROCESSOR has different process,
+voltage and temperatures parameters than the parameters at which target library 
+tc240c is characterized. Delays may be inaccurate as a result. (OPT-998)
+
+  Beginning Pass 1 Mapping
+  ------------------------
+  Processing 'add_half_0'
+  Processing 'add_full_0'
+  Processing 'RCA_8'
+  Processing 'ALU'
+  Processing 'SCALAR_PROCESSOR'
+
+  Updating timing information
+Information: Updating design information... (UID-85)
+
+  Beginning Implementation Selection
+  ----------------------------------
+  Processing 'SCALAR_PROCESSOR_DW01_inc_0'
+
+  Beginning Mapping Optimizations  (High effort)
+  -------------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:03    1597.0      0.04       0.8       0.0                          
+    0:00:03    1095.0      0.53       5.4       0.0                          
+    0:00:03    1099.5      0.22       2.6       0.0                          
+    0:00:03    1103.5      0.11       1.1       0.0                          
+    0:00:03    1112.5      0.11       0.9       0.0                          
+    0:00:03    1121.5      0.07       0.6       0.0                          
+    0:00:03    1119.5      0.06       0.6       0.0                          
+    0:00:03    1116.5      0.04       0.4       0.0                          
+    0:00:03    1111.5      0.04       0.3       0.0                          
+    0:00:03    1113.0      0.03       0.2       0.0                          
+    0:00:03    1113.5      0.03       0.2       0.0                          
+    0:00:03    1114.0      0.03       0.1       0.0                          
+    0:00:03    1114.5      0.03       0.1       0.0                          
+    0:00:03    1113.0      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1115.5      0.03       0.1       0.0                          
+
+
+
+  Beginning Delay Optimization Phase
+  ----------------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:03    1115.5      0.03       0.1       0.0                          
+    0:00:03    1113.0      0.00       0.0       0.0                          
+
+
+  Beginning Area-Recovery Phase  (max_area 1200)
+  -----------------------------
+
+   ELAPSED            WORST NEG TOTAL NEG  DESIGN                            
+    TIME      AREA      SLACK     SLACK   RULE COST         ENDPOINT         
+  --------- --------- --------- --------- --------- -------------------------
+    0:00:03    1113.0      0.00       0.0       0.0                          
+    0:00:03    1113.0      0.00       0.0       0.0                          
+    0:00:03    1112.0      0.00       0.0       0.0                          
+    0:00:03    1112.0      0.00       0.0       0.0                          
+    0:00:03    1112.0      0.00       0.0       0.0                          
+    0:00:03    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+    0:00:04    1112.0      0.00       0.0       0.0                          
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_BCCOM25'
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25'
+
+  Optimization Complete
+  ---------------------
+1
+report_cell
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : cell
+Design : SCALAR_PROCESSOR
+Version: C-2009.06-SP5
+Date   : Wed Dec 10 13:53:21 2014
+****************************************
+
+Attributes:
+   BO - reference allows boundary optimization
+    b - black box (unknown)
+    h - hierarchical
+   mo - map_only
+    n - noncombinational
+    r - removable
+   so - sizing only
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+ARRAY_reg[0][0]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][1]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][2]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][3]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][4]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][5]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][6]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[0][7]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][0]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][1]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][2]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][3]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][4]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][5]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][6]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[1][7]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][0]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][1]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][2]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][3]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][4]           CFD2QX2         tc240c          7.500000  n, so
+ARRAY_reg[2][5]           CFD2QX2         tc240c          7.500000  n, so
+ARRAY_reg[2][6]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[2][7]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][0]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][1]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][2]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][3]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][4]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][5]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][6]           CFD2QXL         tc240c          5.000000  n, so
+ARRAY_reg[3][7]           CFD2QXL         tc240c          5.000000  n, so
+D_reg[0]                  CFD2QXL         tc240c          5.000000  n, so
+D_reg[1]                  CFD2QXL         tc240c          5.000000  n, so
+FR_reg[0]                 CFD2QXL         tc240c          5.000000  n, so
+FR_reg[1]                 CFD2QXL         tc240c          5.000000  n, so
+FR_reg[2]                 CFD2QXL         tc240c          5.000000  n, so
+FR_reg[3]                 CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[0]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[1]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[2]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[3]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[4]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[5]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[6]                CFD2QXL         tc240c          5.000000  n, so
+OP1_reg[7]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[0]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[1]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[2]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[3]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[4]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[5]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[6]                CFD2QXL         tc240c          5.000000  n, so
+OP2_reg[7]                CFD2QXL         tc240c          5.000000  n, so
+OPRN_reg                  CFD2QXL         tc240c          5.000000  n, so
+S_reg[0]                  CFD2QXL         tc240c          5.000000  n, so
+S_reg[1]                  CFD2QXL         tc240c          5.000000  n, so
+U74                       CAN4X1          tc240c          2.000000  
+U92                       CND2IX1         tc240c          1.500000  
+U124                      CAOR2X1         tc240c          2.500000  
+U126                      CAOR2X1         tc240c          2.500000  
+U127                      CAOR2X1         tc240c          2.500000  
+U130                      CAOR2X1         tc240c          2.500000  
+U135                      CAOR2X1         tc240c          2.500000  
+U139                      CAOR2X1         tc240c          2.500000  
+U143                      CAOR2X1         tc240c          2.500000  
+U147                      CAOR2X1         tc240c          2.500000  
+U151                      CAOR2X1         tc240c          2.500000  
+U155                      CAOR2X1         tc240c          2.500000  
+U159                      CAOR2X1         tc240c          2.500000  
+U163                      CAOR2X1         tc240c          2.500000  
+U170                      CAN3X2          tc240c          2.000000  
+U172                      CAOR2X1         tc240c          2.500000  
+U173                      CAOR2X1         tc240c          2.500000  
+U174                      CAOR2X1         tc240c          2.500000  
+U175                      CAOR2X1         tc240c          2.500000  
+U177                      COR8X1          tc240c          4.000000  
+U178                      COR2X1          tc240c          1.500000  
+U180                      CAOR2X1         tc240c          2.500000  
+U184                      CAOR2X1         tc240c          2.500000  
+U188                      CAOR2X1         tc240c          2.500000  
+U189                      CAOR2X1         tc240c          2.500000  
+U190                      CAOR2X1         tc240c          2.500000  
+U191                      CAOR2X1         tc240c          2.500000  
+U192                      CAOR2X1         tc240c          2.500000  
+U193                      CAOR2X1         tc240c          2.500000  
+U194                      CAOR2X1         tc240c          2.500000  
+U195                      CAOR2X1         tc240c          2.500000  
+U196                      CAOR2X1         tc240c          2.500000  
+U197                      CAOR2X1         tc240c          2.500000  
+U198                      CAOR2X1         tc240c          2.500000  
+U199                      CAOR2X1         tc240c          2.500000  
+U200                      CAOR2X1         tc240c          2.500000  
+U201                      CAOR2X1         tc240c          2.500000  
+U202                      CAOR2X1         tc240c          2.500000  
+U203                      CAOR2X1         tc240c          2.500000  
+U204                      CAOR2X1         tc240c          2.500000  
+U209                      CAOR2X1         tc240c          2.500000  
+U210                      CAOR2X1         tc240c          2.500000  
+U211                      CAOR2X1         tc240c          2.500000  
+U212                      CAOR2X1         tc240c          2.500000  
+U219                      CAOR2X1         tc240c          2.500000  
+U223                      CAOR1X1         tc240c          2.000000  
+U245                      COAN1X1         tc240c          2.000000  
+U246                      COND1XL         tc240c          1.500000  
+U247                      CANR2X1         tc240c          2.000000  
+U248                      CANR2X1         tc240c          2.000000  
+U249                      CANR2X2         tc240c          4.000000  
+U250                      CND2IX1         tc240c          1.500000  
+U251                      COND1XL         tc240c          1.500000  
+U252                      CND2IX1         tc240c          1.500000  
+U253                      COND1XL         tc240c          1.500000  
+U254                      COR2X1          tc240c          1.500000  
+U255                      CND2X1          tc240c          1.000000  
+U256                      CANR2X1         tc240c          2.000000  
+U257                      COR2X1          tc240c          1.500000  
+U258                      CND2X1          tc240c          1.000000  
+U259                      CANR2X1         tc240c          2.000000  
+U260                      CND2X1          tc240c          1.000000  
+U261                      CND2XL          tc240c          1.000000  
+U262                      CND2X1          tc240c          1.000000  
+U263                      COAN1X1         tc240c          2.000000  
+U264                      CND2X1          tc240c          1.000000  
+U265                      CND2X1          tc240c          1.000000  
+U266                      CND2XL          tc240c          1.000000  
+U267                      CND2X1          tc240c          1.000000  
+U268                      CND2X1          tc240c          1.000000  
+U269                      CND2XL          tc240c          1.000000  
+U270                      CND2X1          tc240c          1.000000  
+U271                      CND2X1          tc240c          1.000000  
+U272                      CND2XL          tc240c          1.000000  
+U273                      CND2X1          tc240c          1.000000  
+U274                      COAN1X1         tc240c          2.000000  
+U275                      CND2X1          tc240c          1.000000  
+U276                      CANR2X1         tc240c          2.000000  
+U277                      CND2X1          tc240c          1.000000  
+U278                      CANR2X1         tc240c          2.000000  
+U279                      COAN1X1         tc240c          2.000000  
+U280                      CND2X1          tc240c          1.000000  
+U281                      COAN1X1         tc240c          2.000000  
+U282                      CND2X1          tc240c          1.000000  
+U283                      COND1XL         tc240c          1.500000  
+U284                      CAN2X1          tc240c          1.500000  
+U285                      COR2X1          tc240c          1.500000  
+U286                      COR2X1          tc240c          1.500000  
+U287                      CAN2X1          tc240c          1.500000  
+U288                      CANR2X1         tc240c          2.000000  
+U289                      CANR2X1         tc240c          2.000000  
+U290                      CND2X1          tc240c          1.000000  
+U291                      CAN2X1          tc240c          1.500000  
+U292                      COR2X1          tc240c          1.500000  
+U293                      CANR2X1         tc240c          2.000000  
+U294                      CAN2X1          tc240c          1.500000  
+U295                      COR2X1          tc240c          1.500000  
+U296                      COAN1X1         tc240c          2.000000  
+U297                      CND2X1          tc240c          1.000000  
+U298                      CND2X1          tc240c          1.000000  
+U299                      CAN2X1          tc240c          1.500000  
+U300                      COR2X1          tc240c          1.500000  
+U301                      CIVXL           tc240c          1.000000  
+U302                      CAN2X1          tc240c          1.500000  
+U303                      COR2X1          tc240c          1.500000  
+U304                      COAN1X1         tc240c          2.000000  
+U305                      CND2X1          tc240c          1.000000  
+U306                      CND2X1          tc240c          1.000000  
+U307                      CAN2X1          tc240c          1.500000  
+U308                      COR2X1          tc240c          1.500000  
+U309                      CIVXL           tc240c          1.000000  
+U310                      COND1X1         tc240c          2.000000  
+U311                      COND1X1         tc240c          2.000000  
+U312                      CNR3XL          tc240c          1.500000  
+U313                      CNR2IX4         tc240c          3.500000  
+U314                      CNR2X1          tc240c          1.000000  
+U315                      CIVX2           tc240c          1.000000  
+U316                      CND3XL          tc240c          1.500000  
+U317                      CANR4CX1        tc240c          2.000000  
+U318                      CNR2X1          tc240c          1.000000  
+U319                      CNR2X1          tc240c          1.000000  
+U320                      CIVX2           tc240c          1.000000  
+U321                      CAN2X1          tc240c          1.500000  
+U322                      CANR11X1        tc240c          2.000000  
+U323                      CANR1XL         tc240c          1.500000  
+U324                      CND4X1          tc240c          2.000000  
+U325                      CAN2X1          tc240c          1.500000  
+U326                      CND3XL          tc240c          1.500000  
+U327                      CANR1XL         tc240c          1.500000  
+U328                      CND3XL          tc240c          1.500000  
+U329                      CNR2X1          tc240c          1.000000  
+U330                      CIVX2           tc240c          1.000000  
+U331                      CIVX2           tc240c          1.000000  
+U332                      CIVX2           tc240c          1.000000  
+U333                      CIVX2           tc240c          1.000000  
+U334                      CANR2X1         tc240c          2.000000  
+U335                      CANR2X1         tc240c          2.000000  
+U336                      CND2X1          tc240c          1.000000  
+U337                      CANR2X1         tc240c          2.000000  
+U338                      CND2X1          tc240c          1.000000  
+U339                      CND2X1          tc240c          1.000000  
+U340                      CANR2X1         tc240c          2.000000  
+U341                      CND2X1          tc240c          1.000000  
+U342                      CND2X1          tc240c          1.000000  
+U343                      COND4CX1        tc240c          2.000000  
+U344                      CND2X1          tc240c          1.000000  
+U345                      CANR2X1         tc240c          2.000000  
+U346                      COND4CX1        tc240c          2.000000  
+U347                      CND2X1          tc240c          1.000000  
+U348                      CANR2X1         tc240c          2.000000  
+U349                      COND4CX1        tc240c          2.000000  
+U350                      CND2X1          tc240c          1.000000  
+U351                      CANR2X1         tc240c          2.000000  
+U352                      COND4CX1        tc240c          2.000000  
+U353                      CND2X1          tc240c          1.000000  
+U354                      CANR2X1         tc240c          2.000000  
+U355                      CAN4X1          tc240c          2.000000  
+U356                      COND11X1        tc240c          2.000000  
+U357                      CANR11X1        tc240c          2.000000  
+U358                      COND4CX1        tc240c          2.000000  
+U359                      CNR3XL          tc240c          1.500000  
+U360                      CNR2IX1         tc240c          1.500000  
+U361                      CNR4X1          tc240c          2.000000  
+U362                      CNR3XL          tc240c          1.500000  
+U363                      CNR3XL          tc240c          1.500000  
+U364                      CNR3XL          tc240c          1.500000  
+U365                      CNR3XL          tc240c          1.500000  
+U366                      CNR2X1          tc240c          1.000000  
+U367                      CND4X1          tc240c          2.000000  
+U368                      CAN2X1          tc240c          1.500000  
+U369                      CMX4XL          tc240c          5.500000  mo
+U370                      CMX4XL          tc240c          5.500000  mo
+U371                      CMX4XL          tc240c          5.500000  mo
+U372                      CMX4XL          tc240c          5.500000  mo
+U373                      CANR3X1         tc240c          2.000000  
+U374                      COND11X1        tc240c          2.000000  
+U375                      CND3XL          tc240c          1.500000  
+U376                      CANR2X1         tc240c          2.000000  
+U377                      CANR2X1         tc240c          2.000000  
+U378                      CANR2X1         tc240c          2.000000  
+U379                      CNR2X1          tc240c          1.000000  
+U380                      CMX4XL          tc240c          5.500000  mo
+U381                      CMX4XL          tc240c          5.500000  mo
+U382                      CMX4XL          tc240c          5.500000  mo
+U383                      CMX4XL          tc240c          5.500000  mo
+U384                      COND2X1         tc240c          2.000000  
+U385                      CENX1           tc240c          2.000000  
+U386                      CND3XL          tc240c          1.500000  
+U387                      CND2X1          tc240c          1.000000  
+U388                      CND3XL          tc240c          1.500000  
+U389                      COND4CX1        tc240c          2.000000  
+U390                      CND2X1          tc240c          1.000000  
+U391                      COND1XL         tc240c          1.500000  
+U392                      CANR2X1         tc240c          2.000000  
+U393                      COND1XL         tc240c          1.500000  
+U394                      CANR2X1         tc240c          2.000000  
+U395                      COND1XL         tc240c          1.500000  
+U396                      CANR2X1         tc240c          2.000000  
+U397                      COND1XL         tc240c          1.500000  
+U398                      CANR2X1         tc240c          2.000000  
+U399                      COND1XL         tc240c          1.500000  
+U400                      CANR2X1         tc240c          2.000000  
+U401                      COND1XL         tc240c          1.500000  
+U402                      CND2X1          tc240c          1.000000  
+U403                      CAOR2XL         tc240c          2.500000  
+U404                      CAOR2XL         tc240c          2.500000  
+U405                      CAOR2XL         tc240c          2.500000  
+U406                      CAOR2XL         tc240c          2.500000  
+U407                      CAOR2XL         tc240c          2.500000  
+U408                      CAOR2XL         tc240c          2.500000  
+U409                      CAOR2XL         tc240c          2.500000  
+U410                      CAOR2XL         tc240c          2.500000  
+U411                      COND1XL         tc240c          1.500000  
+U412                      CND2X1          tc240c          1.000000  
+U413                      COND1XL         tc240c          1.500000  
+U414                      CND2X1          tc240c          1.000000  
+U415                      COND1XL         tc240c          1.500000  
+U416                      CND2X1          tc240c          1.000000  
+U417                      CMX4XL          tc240c          5.500000  mo
+U418                      CMX4XL          tc240c          5.500000  mo
+U419                      CMX4XL          tc240c          5.500000  mo
+U420                      CMX4XL          tc240c          5.500000  mo
+U421                      CMX4XL          tc240c          5.500000  mo
+U422                      CMX4XL          tc240c          5.500000  mo
+U423                      CMX4XL          tc240c          5.500000  mo
+U424                      CMX4XL          tc240c          5.500000  mo
+U425                      COND2X1         tc240c          2.000000  
+U426                      COND2X1         tc240c          2.000000  
+U427                      COND2X1         tc240c          2.000000  
+U428                      COND2X1         tc240c          2.000000  
+U429                      CANR2XL         tc240c          2.000000  
+U430                      CANR2XL         tc240c          2.000000  
+U431                      CANR2XL         tc240c          2.000000  
+U432                      CANR2XL         tc240c          2.000000  
+U433                      CANR2XL         tc240c          2.000000  
+U434                      CANR2XL         tc240c          2.000000  
+U435                      CANR2XL         tc240c          2.000000  
+U436                      COND1XL         tc240c          1.500000  
+U437                      COND1XL         tc240c          1.500000  
+U438                      COND1XL         tc240c          1.500000  
+U439                      COND1XL         tc240c          1.500000  
+U440                      COND1XL         tc240c          1.500000  
+U441                      COND1XL         tc240c          1.500000  
+U442                      COND1XL         tc240c          1.500000  
+U443                      COND1XL         tc240c          1.500000  
+U444                      CANR2X1         tc240c          2.000000  
+U445                      COND3X1         tc240c          2.000000  
+U446                      CANR2X1         tc240c          2.000000  
+U447                      COND3X1         tc240c          2.000000  
+U448                      CANR2X1         tc240c          2.000000  
+U449                      CANR2X1         tc240c          2.000000  
+U450                      CIVX3           tc240c          1.500000  
+U451                      CIVX2           tc240c          1.000000  
+U452                      CIVX2           tc240c          1.000000  
+U453                      CIVX2           tc240c          1.000000  
+U454                      CIVX2           tc240c          1.000000  
+U455                      CIVX2           tc240c          1.000000  
+U456                      CIVX2           tc240c          1.000000  
+U457                      CIVX2           tc240c          1.000000  
+U458                      CIVX2           tc240c          1.000000  
+U459                      CIVX2           tc240c          1.000000  
+U460                      CIVX2           tc240c          1.000000  
+U461                      CIVX2           tc240c          1.000000  
+U462                      CIVX2           tc240c          1.000000  
+U463                      CIVX2           tc240c          1.000000  
+U464                      CIVX2           tc240c          1.000000  
+U465                      CIVX2           tc240c          1.000000  
+U466                      CIVX2           tc240c          1.000000  
+U467                      CIVX2           tc240c          1.000000  
+U468                      CIVX2           tc240c          1.000000  
+U469                      CIVX2           tc240c          1.000000  
+U470                      CIVX2           tc240c          1.000000  
+U471                      CIVX2           tc240c          1.000000  
+U472                      CIVX2           tc240c          1.000000  
+U473                      CIVX2           tc240c          1.000000  
+U474                      CIVX2           tc240c          1.000000  
+U475                      CIVX2           tc240c          1.000000  
+U476                      CIVX2           tc240c          1.000000  
+U477                      CIVX2           tc240c          1.000000  
+U478                      CIVX2           tc240c          1.000000  
+U479                      CIVX2           tc240c          1.000000  
+U480                      CIVX2           tc240c          1.000000  
+U481                      CIVX2           tc240c          1.000000  
+U482                      CIVX2           tc240c          1.000000  
+U483                      CIVX2           tc240c          1.000000  
+U484                      CIVX2           tc240c          1.000000  
+U485                      CIVX2           tc240c          1.000000  
+U486                      CIVX2           tc240c          1.000000  
+U487                      CIVX2           tc240c          1.000000  
+U488                      CIVX2           tc240c          1.000000  
+U489                      CIVX2           tc240c          1.000000  
+U490                      CIVX2           tc240c          1.000000  
+U491                      CIVX2           tc240c          1.000000  
+U492                      CIVX2           tc240c          1.000000  
+U493                      CIVX2           tc240c          1.000000  
+U494                      CIVX2           tc240c          1.000000  
+addr_reg[0]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[1]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[2]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[3]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[4]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[5]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[6]               CFD2QXL         tc240c          5.000000  n, so
+addr_reg[7]               CFD2QXL         tc240c          5.000000  n, so
+alu23                     ALU                             87.000000 h
+dat_T_reg[0]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[1]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[2]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[3]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[4]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[5]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[6]              CFD2QXL         tc240c          5.000000  n, so
+dat_T_reg[7]              CFD2QXL         tc240c          5.000000  n, so
+dat_tri[0]                CTSX2           tc240c          3.000000  n
+dat_tri[1]                CTSX2           tc240c          3.000000  n
+dat_tri[2]                CTSX2           tc240c          3.000000  n
+dat_tri[3]                CTSX2           tc240c          3.000000  n
+dat_tri[4]                CTSX2           tc240c          3.000000  n
+dat_tri[5]                CTSX2           tc240c          3.000000  n
+dat_tri[6]                CTSX2           tc240c          3.000000  n
+dat_tri[7]                CTSX2           tc240c          3.000000  n
+n_state_reg[0]            CLDP1QXL        tc240c          2.500000  n
+n_state_reg[1]            CLDP1QXL        tc240c          2.500000  n
+n_state_reg[2]            CLDP1QXL        tc240c          2.500000  n
+opcode_reg[0]             CFD2QXL         tc240c          5.000000  n, so
+opcode_reg[1]             CFD2QXL         tc240c          5.000000  n, so
+opcode_reg[2]             CFD2QXL         tc240c          5.000000  n, so
+opcode_reg[3]             CFD2QXL         tc240c          5.000000  n, so
+r330                      SCALAR_PROCESSOR_DW01_inc_0     24.000000 BO, h
+rd_reg                    CFD2QX1         tc240c          7.000000  n, so
+state_reg[0]              CFD2QXL         tc240c          5.000000  n, so
+state_reg[1]              CFD2QXL         tc240c          5.000000  n, so
+state_reg[2]              CFD2QXL         tc240c          5.000000  n, so
+wrt_reg                   CFD2QX1         tc240c          7.000000  n, so
+--------------------------------------------------------------------------------
+Total 391 cells                                           1112.000000
+1
+report_net
+ 
+****************************************
+Report : net
+Design : SCALAR_PROCESSOR
+Version: C-2009.06-SP5
+Date   : Wed Dec 10 13:53:21 2014
+****************************************
+
+
+Operating Conditions: WCCOM25   Library: tc240c
+Wire Load Model Mode: top
+
+
+Net                 Fanout     Fanin      Load   Resistance    Pins   Attributes
+--------------------------------------------------------------------------------
+ALU_OUT[0]               3         1     19.74         0.00       4   
+ALU_OUT[1]               3         1     25.84         0.00       4   
+ALU_OUT[2]               3         1     21.20         0.00       4   
+ALU_OUT[3]               3         1     21.23         0.00       4   
+ALU_OUT[4]               4         1     29.83         0.00       5   
+ALU_OUT[5]               4         1     28.77         0.00       5   
+ALU_OUT[6]               4         1     29.27         0.00       5   
+ALU_OUT[7]               4         1     39.54         0.00       5   
+ARRAY[0][0]              5         1     42.11         0.00       6   
+ARRAY[0][1]              5         1     42.11         0.00       6   
+ARRAY[0][2]              5         1     42.11         0.00       6   
+ARRAY[0][3]              5         1     42.11         0.00       6   
+ARRAY[0][4]              5         1     42.11         0.00       6   
+ARRAY[0][5]              5         1     42.11         0.00       6   
+ARRAY[0][6]              5         1     42.11         0.00       6   
+ARRAY[0][7]              5         1     42.11         0.00       6   
+ARRAY[1][0]              3         1     17.66         0.00       4   
+ARRAY[1][1]              3         1     16.39         0.00       4   
+ARRAY[1][2]              3         1     17.66         0.00       4   
+ARRAY[1][3]              3         1     17.66         0.00       4   
+ARRAY[1][4]              3         1     16.39         0.00       4   
+ARRAY[1][5]              3         1     16.39         0.00       4   
+ARRAY[1][6]              3         1     17.66         0.00       4   
+ARRAY[1][7]              3         1     16.39         0.00       4   
+ARRAY[2][0]              3         1     18.14         0.00       4   
+ARRAY[2][1]              3         1     18.14         0.00       4   
+ARRAY[2][2]              3         1     18.14         0.00       4   
+ARRAY[2][3]              3         1     18.14         0.00       4   
+ARRAY[2][4]              3         1     16.49         0.00       4   
+ARRAY[2][5]              3         1     16.49         0.00       4   
+ARRAY[2][6]              3         1     16.49         0.00       4   
+ARRAY[2][7]              3         1     16.49         0.00       4   
+ARRAY[3][0]              6         1     69.17         0.00       7   
+ARRAY[3][1]              5         1     52.27         0.00       6   
+ARRAY[3][2]              5         1     53.08         0.00       6   
+ARRAY[3][3]              5         1     52.27         0.00       6   
+ARRAY[3][4]              5         1     52.27         0.00       6   
+ARRAY[3][5]              5         1     52.27         0.00       6   
+ARRAY[3][6]              5         1     52.27         0.00       6   
+ARRAY[3][7]              5         1     53.46         0.00       6   
+FR[0]                    2         1     16.22         0.00       3   
+FR[1]                    2         1     25.70         0.00       3   
+FR[2]                    2         1     16.48         0.00       3   
+FR[3]                    2         1     25.70         0.00       3   
+N64                     13         1    147.32         0.00      14   
+N65                     13         1    105.26         0.00      14   
+N66                     11         1    140.09         0.00      12   
+N67                     11         1     97.91         0.00      12   
+N92                      1         1      2.61         0.00       2   
+N93                      1         1      2.61         0.00       2   
+N94                      3         1      7.76         0.00       4   
+N95                      1         1      2.61         0.00       2   
+N99                      2         1     14.51         0.00       3   
+N100                     2         1     14.51         0.00       3   
+N101                     2         1     14.51         0.00       3   
+N102                     2         1     14.51         0.00       3   
+N103                     2         1     14.90         0.00       3   
+N104                     2         1     14.90         0.00       3   
+N105                     2         1     14.90         0.00       3   
+N106                     2         1     14.90         0.00       3   
+N107                     2         1     24.12         0.00       3   
+N108                     2         1     24.12         0.00       3   
+N109                     2         1     24.12         0.00       3   
+N110                     2         1     24.12         0.00       3   
+N111                     2         1     24.12         0.00       3   
+N112                     2         1     24.12         0.00       3   
+N113                     2         1     24.12         0.00       3   
+N114                     2         1     24.12         0.00       3   
+N245                     1         1      8.79         0.00       2   
+N246                     1         1      8.79         0.00       2   
+N247                     1         1      8.79         0.00       2   
+N248                     1         1      8.79         0.00       2   
+N249                     1         1      8.79         0.00       2   
+N250                     1         1      8.79         0.00       2   
+N251                     1         1      8.79         0.00       2   
+N253                     1         1      8.79         0.00       2   
+N470                     1         1      7.50         0.00       2   
+OP1[0]                   3         1     32.80         0.00       4   
+OP1[1]                   3         1     32.80         0.00       4   
+OP1[2]                   3         1     32.80         0.00       4   
+OP1[3]                   3         1     32.80         0.00       4   
+OP1[4]                   3         1     32.80         0.00       4   
+OP1[5]                   3         1     32.80         0.00       4   
+OP1[6]                   3         1     32.80         0.00       4   
+OP1[7]                   3         1     32.80         0.00       4   
+OP2[0]                   2         1     24.73         0.00       3   
+OP2[1]                   2         1     24.73         0.00       3   
+OP2[2]                   2         1     24.73         0.00       3   
+OP2[3]                   2         1     24.73         0.00       3   
+OP2[4]                   2         1     24.73         0.00       3   
+OP2[5]                   2         1     24.73         0.00       3   
+OP2[6]                   2         1     24.73         0.00       3   
+OP2[7]                   2         1     24.73         0.00       3   
+OPRN                     3         1     31.95         0.00       4   
+addr[0]                  2         1     10.06         0.00       3   
+addr[1]                  2         1     10.06         0.00       3   
+addr[2]                  2         1     10.06         0.00       3   
+addr[3]                  2         1     10.06         0.00       3   
+addr[4]                  2         1     10.06         0.00       3   
+addr[5]                  2         1     10.06         0.00       3   
+addr[6]                  2         1     10.06         0.00       3   
+addr[7]                  2         1     10.06         0.00       3   
+clk                     82         1    240.96         0.00      83   
+cout                     2         1     36.91         0.00       3   
+dat[0]                   4         2     29.37         0.00       5   
+dat[1]                   4         2     34.13         0.00       5   
+dat[2]                   4         2     29.37         0.00       5   
+dat[3]                   4         2     29.37         0.00       5   
+dat[4]                   5         2     38.07         0.00       6   
+dat[5]                   5         2     37.93         0.00       6   
+dat[6]                   5         2     38.07         0.00       6   
+dat[7]                   4         2     40.00         0.00       5   
+dat_T[0]                 2         1     22.82         0.00       3   
+dat_T[1]                 2         1     22.82         0.00       3   
+dat_T[2]                 2         1     22.82         0.00       3   
+dat_T[3]                 2         1     22.82         0.00       3   
+dat_T[4]                 2         1     22.82         0.00       3   
+dat_T[5]                 2         1     22.82         0.00       3   
+dat_T[6]                 2         1     22.82         0.00       3   
+dat_T[7]                 2         1     22.82         0.00       3   
+n18                      9         1     49.72         0.00      10   
+n19                      9         1     47.21         0.00      10   
+n21                      1         1      3.99         0.00       2   
+n22                      8         1     74.66         0.00       9   
+n23                      9         1     84.43         0.00      10   
+n25                      1         1      3.99         0.00       2   
+n27                      1         1      3.99         0.00       2   
+n29                      1         1      3.99         0.00       2   
+n31                      1         1      3.99         0.00       2   
+n33                      1         1      3.99         0.00       2   
+n35                      1         1      3.99         0.00       2   
+n37                      1         1      3.99         0.00       2   
+n39                      2         1     11.13         0.00       3   
+n40                     10         1     78.97         0.00      11   
+n42                      8         1     51.17         0.00       9   
+n43                      1         1      7.89         0.00       2   
+n44                      1         1     10.14         0.00       2   
+n46                     10         1     99.92         0.00      11   
+n48                      8         1     81.13         0.00       9   
+n50                      1         1      7.89         0.00       2   
+n51                      1         1     10.14         0.00       2   
+n54                      1         1      9.26         0.00       2   
+n55                      1         1     10.06         0.00       2   
+n58                      1         1      9.26         0.00       2   
+n59                      1         1     10.06         0.00       2   
+n62                      1         1      7.89         0.00       2   
+n63                      1         1     10.14         0.00       2   
+n64                      2         1     14.06         0.00       3   
+n66                      1         1      3.99         0.00       2   
+n67                      1         1      9.38         0.00       2   
+n68                      2         1     25.79         0.00       3   
+n70                      1         1      7.89         0.00       2   
+n71                      1         1     10.14         0.00       2   
+n72                      2         1     14.06         0.00       3   
+n74                      1         1      3.99         0.00       2   
+n75                      1         1      9.38         0.00       2   
+n76                      2         1     25.79         0.00       3   
+n79                      3         1     16.42         0.00       4   
+n81                      4         1     20.33         0.00       5   
+n83                      1         1      9.92         0.00       2   
+n84                      8         1     62.82         0.00       9   
+n85                      1         1     10.05         0.00       2   
+n86                      1         1      7.40         0.00       2   
+n88                      3         1     25.87         0.00       4   
+n89                      3         1     36.50         0.00       4   
+n90                      9         1     78.42         0.00      10   
+n91                      1         1      6.65         0.00       2   
+n93                      4         1     36.32         0.00       5   
+n94                     13         1     93.27         0.00      14   
+n96                      2         1     11.89         0.00       3   
+n97                      1         1      6.65         0.00       2   
+n100                     1         1      3.99         0.00       2   
+n101                     1         1      6.65         0.00       2   
+n105                     1         1      7.89         0.00       2   
+n106                     1         1      6.65         0.00       2   
+n111                     1         1      7.89         0.00       2   
+n113                     2         1     20.25         0.00       3   
+n114                     1         1      9.27         0.00       2   
+n116                     8         1     77.24         0.00       9   
+n117                     1         1     10.00         0.00       2   
+n119                     1         1     10.14         0.00       2   
+n120                     5         1     46.20         0.00       6   
+n121                     5         1     48.79         0.00       6   
+n122                     1         1      9.27         0.00       2   
+n124                     1         1     10.00         0.00       2   
+n126                     1         1     10.33         0.00       2   
+n127                     1         1      9.27         0.00       2   
+n129                     1         1     10.00         0.00       2   
+n131                     1         1     10.14         0.00       2   
+n132                     1         1      9.27         0.00       2   
+n134                     1         1     10.00         0.00       2   
+n136                     1         1     10.33         0.00       2   
+n137                     3         1     17.72         0.00       4   
+n138                     4         1     27.70         0.00       5   
+n140                     9         1     60.06         0.00      10   
+n141                     2         1     13.47         0.00       3   
+n142                     2         1     11.07         0.00       3   
+n143                     2         1     13.47         0.00       3   
+n144                     2         1     13.47         0.00       3   
+n145                     2         1     11.07         0.00       3   
+n146                     2         1     11.07         0.00       3   
+n147                     2         1     13.86         0.00       3   
+n148                     2         1     11.07         0.00       3   
+n150                     9         1     73.97         0.00      10   
+n151                    20         1    167.12         0.00      21   
+n154                     6         1     55.49         0.00       7   
+n156                     1         1      3.99         0.00       2   
+n157                     1         1      6.64         0.00       2   
+n159                     1         1      9.97         0.00       2   
+n160                     1         1     10.17         0.00       2   
+n161                     2         1     12.06         0.00       3   
+n162                    18         1    148.96         0.00      19   
+n166                     1         1      9.92         0.00       2   
+n167                     3         1     20.59         0.00       4   
+n168                     2         1     10.45         0.00       3   
+n170                     1         1      9.17         0.00       2   
+n171                     1         1     10.00         0.00       2   
+n172                     2         1     10.47         0.00       3   
+n174                     8         1    131.77         0.00       9   
+n175                     1         1      2.73         0.00       2   
+n176                     1         1      2.73         0.00       2   
+n177                     1         1      2.73         0.00       2   
+n178                     1         1      2.73         0.00       2   
+n179                     1         1      2.73         0.00       2   
+n180                     1         1      2.73         0.00       2   
+n181                     1         1      2.73         0.00       2   
+n182                     1         1      2.73         0.00       2   
+n184                     1         1      2.73         0.00       2   
+n185                     1         1      2.73         0.00       2   
+n186                     1         1      2.73         0.00       2   
+n187                     1         1      2.73         0.00       2   
+n188                     1         1      2.73         0.00       2   
+n189                     1         1      2.73         0.00       2   
+n190                     1         1      2.73         0.00       2   
+n191                     1         1      2.73         0.00       2   
+n192                     1         1      2.73         0.00       2   
+n193                     1         1      2.73         0.00       2   
+n194                     1         1      2.73         0.00       2   
+n195                     1         1      2.73         0.00       2   
+n196                     1         1      2.73         0.00       2   
+n197                     1         1      2.73         0.00       2   
+n198                     1         1      2.73         0.00       2   
+n199                     1         1      2.73         0.00       2   
+n200                     1         1      2.73         0.00       2   
+n201                     1         1      2.73         0.00       2   
+n202                     1         1      7.78         0.00       2   
+n203                     1         1      7.78         0.00       2   
+n204                     1         1      2.73         0.00       2   
+n205                     1         1      2.73         0.00       2   
+n206                     1         1      2.73         0.00       2   
+n207                     1         1      2.73         0.00       2   
+n208                     1         1      2.73         0.00       2   
+n209                     1         1      2.73         0.00       2   
+n210                     1         1      2.73         0.00       2   
+n211                     1         1      2.73         0.00       2   
+n212                     1         1      2.73         0.00       2   
+n213                     1         1      2.73         0.00       2   
+n214                     1         1      2.73         0.00       2   
+n215                     1         1      2.73         0.00       2   
+n216                     1         1      2.73         0.00       2   
+n217                     1         1      2.73         0.00       2   
+n218                     1         1      2.73         0.00       2   
+n219                     1         1      2.73         0.00       2   
+n220                     1         1      2.73         0.00       2   
+n221                     1         1      2.73         0.00       2   
+n222                     1         1      2.73         0.00       2   
+n223                     1         1      2.73         0.00       2   
+n224                     1         1      2.73         0.00       2   
+n225                     1         1      2.73         0.00       2   
+n226                     1         1      2.73         0.00       2   
+n227                     1         1      2.73         0.00       2   
+n228                     1         1      2.73         0.00       2   
+n229                     1         1      2.73         0.00       2   
+n230                     1         1      2.73         0.00       2   
+n231                     1         1      2.73         0.00       2   
+n232                     1         1      2.73         0.00       2   
+n233                     1         1      2.73         0.00       2   
+n234                     1         1      2.73         0.00       2   
+n235                     1         1      2.73         0.00       2   
+n236                     1         1      2.73         0.00       2   
+n237                     1         1      2.73         0.00       2   
+n238                     1         1      2.73         0.00       2   
+n239                     1         1      2.73         0.00       2   
+n240                     1         1      2.73         0.00       2   
+n241                     1         1      2.73         0.00       2   
+n242                     1         1      2.73         0.00       2   
+n243                     1         1      2.73         0.00       2   
+n244                     1         1      2.73         0.00       2   
+n245                     1         1      2.73         0.00       2   
+n246                     1         1      2.73         0.00       2   
+n247                     1         1      2.73         0.00       2   
+n248                     1         1      2.73         0.00       2   
+n249                     1         1      2.73         0.00       2   
+n250                     1         1      2.73         0.00       2   
+n251                     1         1      2.73         0.00       2   
+n252                     1         1      2.73         0.00       2   
+n253                     1         1      8.89         0.00       2   
+n254                     1         1      9.38         0.00       2   
+n255                     1         1     10.14         0.00       2   
+n256                     1         1      7.94         0.00       2   
+n257                     1         1      7.94         0.00       2   
+n258                     1         1      8.79         0.00       2   
+n259                     1         1      8.79         0.00       2   
+n260                     1         1     10.14         0.00       2   
+n261                     1         1      8.79         0.00       2   
+n262                     1         1     10.14         0.00       2   
+n263                     1         1      8.79         0.00       2   
+n264                     1         1      8.79         0.00       2   
+n265                     1         1     10.14         0.00       2   
+n266                     1         1      8.79         0.00       2   
+n267                     1         1     10.14         0.00       2   
+n268                     1         1      8.79         0.00       2   
+n269                     1         1     10.14         0.00       2   
+n270                     1         1      8.79         0.00       2   
+n271                     1         1      8.79         0.00       2   
+n272                     1         1      8.79         0.00       2   
+n273                     1         1      7.80         0.00       2   
+n274                     1         1      7.14         0.00       2   
+n275                     1         1      7.80         0.00       2   
+n276                     1         1      8.07         0.00       2   
+n277                     1         1      7.80         0.00       2   
+n278                     1         1      8.89         0.00       2   
+n279                     1         1      7.14         0.00       2   
+n280                     1         1      8.07         0.00       2   
+n281                     1         1      8.79         0.00       2   
+n282                     1         1      7.80         0.00       2   
+n283                     1         1      8.89         0.00       2   
+n284                     1         1      7.14         0.00       2   
+n285                     1         1      8.07         0.00       2   
+n286                     1         1      8.79         0.00       2   
+n287                     1         1      8.89         0.00       2   
+n288                     1         1      9.38         0.00       2   
+n289                     1         1      9.38         0.00       2   
+n290                     1         1      9.38         0.00       2   
+n291                     1         1      3.99         0.00       2   
+n292                     1         1      3.99         0.00       2   
+n293                     1         1      3.99         0.00       2   
+n294                     1         1      3.99         0.00       2   
+n295                     1         1      3.99         0.00       2   
+n296                     1         1      3.99         0.00       2   
+n297                     1         1      3.99         0.00       2   
+n298                     1         1      3.99         0.00       2   
+n299                    82         1    915.81         0.00      83   
+n300                     8         1     60.12         0.00       9   
+n301                     8         1     71.68         0.00       9   
+n302                     9         1     79.19         0.00      10   
+n303                     1         1      9.11         0.00       2   
+n304                     1         1      9.11         0.00       2   
+n305                     1         1      9.11         0.00       2   
+n306                     1         1      9.11         0.00       2   
+n307                    17         1    116.45         0.00      18   
+n308                    23         1    188.12         0.00      24   
+n309                     9         1     67.62         0.00      10   
+n310                     8         1     60.92         0.00       9   
+n311                     2         1     11.03         0.00       3   
+n312                     2         1     18.15         0.00       3   
+n313                     7         1     51.93         0.00       8   
+n314                     1         1      4.05         0.00       2   
+n315                     9         1     39.70         0.00      10   
+n316                     9         1     37.94         0.00      10   
+n317                     2         1     16.93         0.00       3   
+n318                     3         1     15.62         0.00       4   
+n319                     1         1      7.51         0.00       2   
+n320                     5         1     33.89         0.00       6   
+n321                     1         1     10.03         0.00       2   
+n322                     1         1      3.70         0.00       2   
+n323                     1         1      9.55         0.00       2   
+n324                     3         1     23.92         0.00       4   
+n325                     3         1     23.04         0.00       4   
+n326                     2         1     10.35         0.00       3   
+n327                     1         1      7.16         0.00       2   
+n328                     3         1     16.86         0.00       4   
+n329                     1         1      8.54         0.00       2   
+n330                     3         1     16.86         0.00       4   
+n331                     1         1      8.54         0.00       2   
+n332                     3         1     14.05         0.00       4   
+n333                     1         1      7.16         0.00       2   
+n334                     3         1     13.91         0.00       4   
+n335                     1         1      7.16         0.00       2   
+n336                     2         1     12.29         0.00       3   
+n337                     1         1      3.78         0.00       2   
+n338                     2         1     10.35         0.00       3   
+n339                     2         1     12.29         0.00       3   
+n340                     1         1      9.97         0.00       2   
+n341                     1         1      7.16         0.00       2   
+n342                     1         1      9.97         0.00       2   
+n343                     1         1      3.78         0.00       2   
+n344                     1         1      3.70         0.00       2   
+n345                     1         1      3.70         0.00       2   
+n346                     1         1      3.70         0.00       2   
+n347                     1         1      3.70         0.00       2   
+n348                     1         1      3.70         0.00       2   
+n349                     1         1      3.70         0.00       2   
+n350                     1         1      3.70         0.00       2   
+n351                     1         1      3.70         0.00       2   
+n_state[0]               7         1     36.65         0.00       8   
+n_state[1]               4         1     30.37         0.00       5   
+n_state[2]               5         1     39.52         0.00       6   
+opcode[0]                4         1     39.22         0.00       5   
+opcode[1]                4         1     34.94         0.00       5   
+opcode[2]                7         1     51.43         0.00       8   
+opcode[3]                7         1     55.34         0.00       8   
+ov                       1         1      6.74         0.00       2   
+rd                       2         1     39.31         0.00       3   
+rst                      1         1     26.06         0.00       2   
+state[0]                 3         1     34.99         0.00       4   
+state[1]                 4         1     43.37         0.00       5   
+state[2]                 5         1     49.26         0.00       6   
+wrt                      2         1      7.76         0.00       3   
+--------------------------------------------------------------------------------
+Total 409 nets        1194       417   9232.74         0.00    1603
+Maximum                 82         2    915.81         0.00      83
+Average               2.92      1.02     22.57         0.00    3.92
+1
+update_timing
+Information: Updating design information... (UID-85)
+1
+report_timing -max_paths 10
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 10
+Design : SCALAR_PROCESSOR
+Version: C-2009.06-SP5
+Date   : Wed Dec 10 13:53:21 2014
+****************************************
+
+Operating Conditions: WCCOM25   Library: tc240c
+Wire Load Model Mode: top
+
+  Startpoint: wrt_reg (rising edge-triggered flip-flop)
+  Endpoint: dat[7] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  wrt_reg/CP (CFD2QX1)                     0.00       0.00 r
+  wrt_reg/Q (CFD2QX1)                      0.40       0.40 r
+  U313/Z (CNR2IX4)                         0.40       0.80 r
+  dat_tri[7]/Z (CTSX2)                     0.30       1.10 f
+  dat[7] (inout)                           0.00       1.10 f
+  data arrival time                                   1.10
+
+  max_delay                                1.10       1.10
+  output external delay                    0.00       1.10
+  data required time                                  1.10
+  -----------------------------------------------------------
+  data required time                                  1.10
+  data arrival time                                  -1.10
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+  Startpoint: dat[7] (input port)
+  Endpoint: ARRAY_reg[2][7]
+            (rising edge-triggered flip-flop)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  dat[7] (inout)                           0.00       0.00 f
+  U249/Z (CANR2X2)                         0.13       0.13 r
+  U245/Z (COAN1X1)                         0.26       0.39 r
+  U425/Z (COND2X1)                         0.11       0.51 f
+  U292/Z (COR2X1)                          0.22       0.73 f
+  ARRAY_reg[2][7]/D (CFD2QXL)              0.00       0.73 f
+  data arrival time                                   0.73
+
+  max_delay                                1.10       1.10
+  library setup time                      -0.37       0.73
+  data required time                                  0.73
+  -----------------------------------------------------------
+  data required time                                  0.73
+  data arrival time                                  -0.73
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+  Startpoint: wrt_reg (rising edge-triggered flip-flop)
+  Endpoint: dat[4] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  wrt_reg/CP (CFD2QX1)                     0.00       0.00 r
+  wrt_reg/Q (CFD2QX1)                      0.40       0.40 r
+  U313/Z (CNR2IX4)                         0.40       0.80 r
+  dat_tri[4]/Z (CTSX2)                     0.30       1.10 f
+  dat[4] (inout)                           0.00       1.10 f
+  data arrival time                                   1.10
+
+  max_delay                                1.10       1.10
+  output external delay                    0.00       1.10
+  data required time                                  1.10
+  -----------------------------------------------------------
+  data required time                                  1.10
+  data arrival time                                  -1.10
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+  Startpoint: wrt_reg (rising edge-triggered flip-flop)
+  Endpoint: dat[6] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  wrt_reg/CP (CFD2QX1)                     0.00       0.00 r
+  wrt_reg/Q (CFD2QX1)                      0.40       0.40 r
+  U313/Z (CNR2IX4)                         0.40       0.80 r
+  dat_tri[6]/Z (CTSX2)                     0.30       1.10 f
+  dat[6] (inout)                           0.00       1.10 f
+  data arrival time                                   1.10
+
+  max_delay                                1.10       1.10
+  output external delay                    0.00       1.10
+  data required time                                  1.10
+  -----------------------------------------------------------
+  data required time                                  1.10
+  data arrival time                                  -1.10
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+  Startpoint: wrt_reg (rising edge-triggered flip-flop)
+  Endpoint: dat[5] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  wrt_reg/CP (CFD2QX1)                     0.00       0.00 r
+  wrt_reg/Q (CFD2QX1)                      0.40       0.40 r
+  U313/Z (CNR2IX4)                         0.40       0.80 r
+  dat_tri[5]/Z (CTSX2)                     0.30       1.10 f
+  dat[5] (inout)                           0.00       1.10 f
+  data arrival time                                   1.10
+
+  max_delay                                1.10       1.10
+  output external delay                    0.00       1.10
+  data required time                                  1.10
+  -----------------------------------------------------------
+  data required time                                  1.10
+  data arrival time                                  -1.10
+  -----------------------------------------------------------
+  slack (MET)                                         0.00
+
+
+  Startpoint: dat[0] (input port)
+  Endpoint: ARRAY_reg[3][0]
+            (rising edge-triggered flip-flop)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  dat[0] (inout)                           0.00       0.00 f
+  U334/Z (CANR2X1)                         0.15       0.15 r
+  U310/Z (COND1X1)                         0.22       0.37 f
+  U298/Z (CND2X1)                          0.09       0.46 r
+  U299/Z (CAN2X1)                          0.19       0.65 r
+  U250/Z (CND2IX1)                         0.08       0.73 f
+  ARRAY_reg[3][0]/D (CFD2QXL)              0.00       0.73 f
+  data arrival time                                   0.73
+
+  max_delay                                1.10       1.10
+  library setup time                      -0.37       0.73
+  data required time                                  0.73
+  -----------------------------------------------------------
+  data required time                                  0.73
+  data arrival time                                  -0.73
+  -----------------------------------------------------------
+  slack (MET)                                         0.01
+
+
+  Startpoint: dat[2] (input port)
+  Endpoint: ARRAY_reg[3][2]
+            (rising edge-triggered flip-flop)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  dat[2] (inout)                           0.00       0.00 f
+  U335/Z (CANR2X1)                         0.15       0.15 r
+  U311/Z (COND1X1)                         0.22       0.37 f
+  U306/Z (CND2X1)                          0.09       0.46 r
+  U307/Z (CAN2X1)                          0.19       0.65 r
+  U252/Z (CND2IX1)                         0.08       0.73 f
+  ARRAY_reg[3][2]/D (CFD2QXL)              0.00       0.73 f
+  data arrival time                                   0.73
+
+  max_delay                                1.10       1.10
+  library setup time                      -0.37       0.73
+  data required time                                  0.73
+  -----------------------------------------------------------
+  data required time                                  0.73
+  data arrival time                                  -0.73
+  -----------------------------------------------------------
+  slack (MET)                                         0.01
+
+
+  Startpoint: dat[4] (input port)
+  Endpoint: ARRAY_reg[3][4]
+            (rising edge-triggered flip-flop)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  dat[4] (inout)                           0.00       0.00 f
+  U256/Z (CANR2X1)                         0.15       0.15 r
+  U255/Z (CND2X1)                          0.14       0.29 f
+  U446/Z (CANR2X1)                         0.22       0.51 r
+  U445/Z (COND3X1)                         0.21       0.72 f
+  ARRAY_reg[3][4]/D (CFD2QXL)              0.00       0.72 f
+  data arrival time                                   0.72
+
+  max_delay                                1.10       1.10
+  library setup time                      -0.37       0.73
+  data required time                                  0.73
+  -----------------------------------------------------------
+  data required time                                  0.73
+  data arrival time                                  -0.72
+  -----------------------------------------------------------
+  slack (MET)                                         0.01
+
+
+  Startpoint: dat[5] (input port)
+  Endpoint: ARRAY_reg[3][5]
+            (rising edge-triggered flip-flop)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  input external delay                     0.00       0.00 f
+  dat[5] (inout)                           0.00       0.00 f
+  U248/Z (CANR2X1)                         0.15       0.15 r
+  U258/Z (CND2X1)                          0.14       0.29 f
+  U448/Z (CANR2X1)                         0.22       0.51 r
+  U447/Z (COND3X1)                         0.21       0.72 f
+  ARRAY_reg[3][5]/D (CFD2QXL)              0.00       0.72 f
+  data arrival time                                   0.72
+
+  max_delay                                1.10       1.10
+  library setup time                      -0.37       0.73
+  data required time                                  0.73
+  -----------------------------------------------------------
+  data required time                                  0.73
+  data arrival time                                  -0.72
+  -----------------------------------------------------------
+  slack (MET)                                         0.01
+
+
+  Startpoint: wrt_reg (rising edge-triggered flip-flop)
+  Endpoint: dat[1] (output port)
+  Path Group: default
+  Path Type: max
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  wrt_reg/CP (CFD2QX1)                     0.00       0.00 r
+  wrt_reg/Q (CFD2QX1)                      0.40       0.40 r
+  U313/Z (CNR2IX4)                         0.40       0.80 r
+  dat_tri[1]/Z (CTSX2)                     0.29       1.09 f
+  dat[1] (inout)                           0.00       1.09 f
+  data arrival time                                   1.09
+
+  max_delay                                1.10       1.10
+  output external delay                    0.00       1.10
+  data required time                                  1.10
+  -----------------------------------------------------------
+  data required time                                  1.10
+  data arrival time                                  -1.09
+  -----------------------------------------------------------
+  slack (MET)                                         0.01
+
+
+1
+report_area 
+ 
+****************************************
+Report : area
+Design : SCALAR_PROCESSOR
+Version: C-2009.06-SP5
+Date   : Wed Dec 10 13:53:21 2014
+****************************************
+
+Library(s) Used:
+
+    tc240c (File: /apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25)
+
+Number of ports:               20
+Number of nets:               409
+Number of cells:              391
+Number of references:          44
+
+Combinational area:        661.500000
+Noncombinational area:     450.500000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:          1112.000000
+Total area:                 undefined
+1
+report_power
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_BCCOM25'
+Loading db file '/apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25'
+Warning: Main library 'tc240c' does not specify the following unit required for power: 'Leakage Power'. (PWR-424)
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: There is no defined clock in the design. (PWR-80)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : SCALAR_PROCESSOR
+Version: C-2009.06-SP5
+Date   : Wed Dec 10 13:53:22 2014
+****************************************
+
+
+Library(s) Used:
+
+    tc240c (File: /apps/toshiba/sjsu/synopsys/tc240c/tc240c.db_WCCOM25)
+
+
+Operating Conditions: WCCOM25   Library: tc240c
+Wire Load Model Mode: top
+
+
+Global Operating Voltage = 2.3  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000ff
+    Time Units = 1ns
+    Dynamic Power Units = 1uW    (derived from V,C,T units)
+    Leakage Power Units = Unitless
+
+
+  Cell Internal Power  =   2.1727 mW   (88%)
+  Net Switching Power  = 301.7399 uW   (12%)
+                         ---------
+Total Dynamic Power    =   2.4745 mW  (100%)
+
+Cell Leakage Power     =   0.0000 
+
+1
+write -hierarchy -format verilog -output scalar_netlist.v
+Writing verilog file '/home/pa/pate8552/Project/scalar_netlist.v'.
+1
+quit
+
+Thank you...
